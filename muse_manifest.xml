@@ -1,0 +1,34 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://intel-realsense-extension-for-scratch.github.io/public" resolutions="1x" timestamp="1438608029437">
+  <folder name="css">
+    <file name="site_global.css" crc="415723493"/>
+    <file name="index.css" crc="447905503" ref="index"/>
+    <file name="iefonts_index.css" crc="159436774" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="realsenselogo_white.png" crc="4242555556" seo="true" ref="index"/>
+    <file name="u595-4.png" crc="386570136" ref="index"/>
+    <file name="rscameraicon-u386.png" crc="235157859" ref="index"/>
+    <file name="dlicon-u427.png" crc="3999592492" ref="index"/>
+    <file name="scratchx-u431.png" crc="3789387973" ref="index"/>
+    <file name="warning.png" crc="471954946" seo="true" ref="index"/>
+    <file name="facevisible.png" crc="3838588354" seo="true" ref="index"/>
+    <file name="faceposition.png" crc="536003386" seo="true" ref="index"/>
+    <file name="faceexpression.png" crc="3924190757" seo="true" ref="index"/>
+    <file name="facerotation.png" crc="5307740" seo="true" ref="index"/>
+    <file name="handvisible.png" crc="187437156" seo="true" ref="index"/>
+    <file name="handposition.png" crc="508910255" seo="true" ref="index"/>
+    <file name="handgesture.png" crc="182912586" seo="true" ref="index"/>
+    <file name="handfoldness.png" crc="162181746" seo="true" ref="index"/>
+    <file name="sample1-u727.png" crc="222406790" ref="index"/>
+    <file name="helloworld1.png" crc="3982778105" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4161133607" seo="true" mt="1438607829099" redirect="true"/>
+</manifest>
