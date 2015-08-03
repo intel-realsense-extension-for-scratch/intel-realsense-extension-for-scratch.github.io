@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000C;
-	background-color: #DB3DDB;
+	color: #0000F3;
+	background-color: #269239;
 }
 
 .html
@@ -13,25 +13,358 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 838px;
+	min-height: 837.5500000000138px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #E6EBEF;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	padding-top: 1px;
+	margin-top: -495px;
 	padding-bottom: 56px;
 	width: 0.01px;
 }
 
+#pamphletu1008
+{
+	z-index: 261;
+	width: 0.01px;
+	height: 330px;
+	padding-bottom: 1px;
+	left: -177px;
+	position: relative;
+}
+
+#u1022
+{
+	z-index: 262;
+	width: 229px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1023
+{
+	position: absolute;
+	width: 230px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 1px;
+}
+
+#u1023:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	width: 230px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1023:active
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	width: 230px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1027-14
+{
+	z-index: 264;
+	width: 228px;
+	min-height: 327px;
+	background-color: transparent;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+}
+
+#u1023:hover #u1027-14
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 327px;
+	width: 228px;
+	margin: 1px -10000px 0px 0px;
+}
+
+#u1023:active #u1027-14
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 327px;
+	width: 228px;
+	margin: 1px -10000px 0px 0px;
+}
+
+#u1023:hover #u1027-14 p,#u1023:hover #u1027-14 span,#u1023:active #u1027-14 p,#u1023:active #u1027-14 span
+{
+	color: #00AEEF;
+	visibility: inherit;
+}
+
+#u1028:hover
+{
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1028:active
+{
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1029
+{
+	z-index: 270;
+	vertical-align: top;
+	width: 127px;
+	height: 146px;
+	background: url("../images/dlicon-u1029.png") no-repeat 0px 0px;
+}
+
+#u1030-4
+{
+	z-index: 280;
+	width: 52px;
+	min-height: 49px;
+	background-color: transparent;
+	font-size: 36px;
+	color: #53565A;
+	line-height: 43px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1023:hover #u1030-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 49px;
+	width: 52px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1023:active #u1030-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 49px;
+	width: 52px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1013
+{
+	position: absolute;
+	width: 666px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #191919;
+	background-color: rgba(0,0,0,0.9);
+	padding-bottom: 44px;
+	top: -97px;
+	left: 712px;
+	-pie-background: rgba(0,0,0,0.9);
+}
+
+#u1013popup
+{
+	z-index: 284;
+}
+
+#u1016
+{
+	z-index: 285;
+	width: 622px;
+	height: 309px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #DEDEDE;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u1016_position_content
+{
+	padding-top: 31px;
+	padding-bottom: 39px;
+}
+
+#u1032-6
+{
+	z-index: 286;
+	width: 622px;
+	min-height: 36px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u1032-2
+{
+	font-size: 18px;
+	line-height: 27px;
+	font-weight: 700;
+}
+
+#buttonu1121
+{
+	z-index: 292;
+	width: 276px;
+	-pie-box-shadow: 3px 3px 4px #CCCCCC;
+	box-shadow: 3px 3px 4px rgba(0,0,0,0.2);
+	border-color: #787878;
+	background-color: #00AEEF;
+	border-radius: 5px;
+	padding-bottom: 12px;
+	margin-left: 173px;
+	margin-top: 51px;
+	position: relative;
+}
+
+#buttonu1121:hover
+{
+	background-color: #545454;
+	width: 276px;
+	min-height: 0px;
+	margin: 51px 0px 0px 173px;
+}
+
+#buttonu1121.ButtonSelected
+{
+	background-color: #00AEEF;
+	width: 276px;
+	min-height: 0px;
+	margin: 51px 0px 0px 173px;
+}
+
+#u1122-4
+{
+	z-index: 293;
+	width: 276px;
+	min-height: 23px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	color: #FFFFFF;
+	line-height: 22px;
+	letter-spacing: 1px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+}
+
+#buttonu1121:hover #u1122-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 276px;
+	margin: 13px -10000px 0px 0px;
+}
+
+#buttonu1121.ButtonSelected #u1122-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 276px;
+	margin: 13px -10000px 0px 0px;
+}
+
+#buttonu1121:hover #u1122-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1124-5
+{
+	z-index: 297;
+	width: 622px;
+	min-height: 50px;
+	background-color: transparent;
+	color: #FF0700;
+	line-height: 21px;
+	text-align: center;
+	font-size: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-top: 36px;
+	position: relative;
+}
+
+#u1009
+{
+	position: absolute;
+	width: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	top: -74px;
+	left: 1325px;
+}
+
+#u1009:hover
+{
+	background-color: transparent;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1009:active
+{
+	background-color: transparent;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1010-4
+{
+	z-index: 303;
+	width: 20px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #53565A;
+	line-height: 20px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 5px;
+}
+
 #u592
 {
-	z-index: 281;
+	z-index: 328;
 	height: 78px;
 	-pie-box-shadow: none;
 	box-shadow: 0px 3px 8px rgba(0,0,0,0.45);
@@ -44,18 +377,19 @@
 
 #u592-bw
 {
-	z-index: 281;
+	z-index: 328;
 }
 
 #home
 {
 	margin-left: 972px;
+	margin-top: 165px;
 	position: relative;
 }
 
 #u593
 {
-	z-index: 282;
+	z-index: 329;
 	width: 256px;
 	background-color: transparent;
 	position: fixed;
@@ -65,7 +399,7 @@
 
 #u595-4
 {
-	z-index: 284;
+	z-index: 331;
 	position: fixed;
 	top: 20px;
 	left: 297px;
@@ -79,7 +413,7 @@
 
 #menuu790
 {
-	z-index: 288;
+	z-index: 335;
 	width: 545px;
 	border-style: none;
 	border-color: transparent;
@@ -120,8 +454,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -186,8 +520,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -252,8 +586,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -325,8 +659,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -365,7 +699,7 @@
 	visibility: inherit;
 }
 
-.MenuItem /* unifiedNavBar */
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton,.MenuItem /* pamphlet2 */
 {
 	cursor: pointer;
 }
@@ -412,13 +746,13 @@
 
 #u887-4
 {
-	z-index: 251;
+	z-index: 231;
 	width: 960px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 21px;
 	font-size: 14px;
 	text-align: center;
-	line-height: 21px;
 	left: 99px;
 	margin-top: 15px;
 	position: relative;
@@ -447,7 +781,7 @@
 {
 	width: 0.01px;
 	margin-left: 22px;
-	margin-top: 9px;
+	margin-top: 10px;
 }
 
 #buttonu383
@@ -476,9 +810,9 @@
 	width: 229px;
 	min-height: 261px;
 	background-color: transparent;
-	color: #3C3C3C;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
+	color: #3C3C3C;
 	font-family: open-sans, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -524,8 +858,8 @@
 	width: 52px;
 	min-height: 49px;
 	background-color: transparent;
-	color: #53565A;
 	font-size: 36px;
+	color: #53565A;
 	line-height: 43px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -533,29 +867,21 @@
 	margin-right: -10000px;
 }
 
-#buttonu424
+#buttonu1127
 {
-	z-index: 34;
-	width: 228px;
+	z-index: 307;
+	width: 229px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 22px;
 	position: relative;
 	margin-right: -10000px;
-	left: 346px;
+	left: 344px;
 }
 
-#buttonu424.ButtonSelected
+#u1132-14
 {
-	width: 228px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u425-13
-{
-	z-index: 35;
+	z-index: 308;
 	width: 228px;
 	min-height: 327px;
 	background-color: transparent;
@@ -563,42 +889,44 @@
 	font-family: open-sans, sans-serif;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
 }
 
-#buttonu424:hover #u425-13
+#u1023.PamphletThumbSelected #u1027-14,#buttonu1127:hover #u1132-14
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 327px;
 	width: 228px;
-	margin: 0px -10000px 0px 0px;
+	margin: 1px -10000px 0px 0px;
 }
 
-#buttonu424.ButtonSelected #u425-13
+#buttonu1127.ButtonSelected #u1132-14
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 327px;
 	width: 228px;
-	margin: 0px -10000px 0px 0px;
+	margin: 1px -10000px 0px 0px;
 }
 
-#buttonu424:hover #u425-13 p,#buttonu424:hover #u425-13 span
+#buttonu1127:hover #u1132-14 p,#buttonu1127:hover #u1132-14 span
 {
 	color: #00AEEF;
 	visibility: inherit;
 }
 
-#u427
+#u1134
 {
-	z-index: 41;
+	z-index: 314;
 	vertical-align: top;
 	width: 127px;
 	height: 146px;
-	background: url("../images/dlicon-u427.png") no-repeat 0px 0px;
+	background: url("../images/dlicon-u1134.png") no-repeat 0px 0px;
 }
 
-#u425-6
+#u1027-6,#u1132-6
 {
 	font-size: 18px;
 	line-height: 29px;
@@ -606,7 +934,7 @@
 	font-weight: 700;
 }
 
-#u425-4,#u425-8,#u425-9
+#u1027-4,#u1027-8,#u1132-4,#u1132-8
 {
 	font-size: 18px;
 	line-height: 22px;
@@ -614,7 +942,7 @@
 	font-weight: 400;
 }
 
-#u425-11
+#u1027-9,#u1132-9
 {
 	font-size: 14px;
 	line-height: 21px;
@@ -622,14 +950,28 @@
 	font-weight: 400;
 }
 
-#u433-4
+#u1027-12,#u1132-12
 {
-	z-index: 50;
+	font-size: 14px;
+	line-height: 21px;
+	color: #FF0700;
+	font-weight: 400;
+}
+
+#u1027-10,#u1124,#u1132-10
+{
+	text-decoration: underline;
+	font-weight: 700;
+}
+
+#u1135-4
+{
+	z-index: 324;
 	width: 52px;
 	min-height: 49px;
 	background-color: transparent;
-	color: #53565A;
 	font-size: 36px;
+	color: #53565A;
 	line-height: 43px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -639,7 +981,7 @@
 
 #buttonu428
 {
-	z-index: 54;
+	z-index: 34;
 	width: 229px;
 	border-style: none;
 	border-color: transparent;
@@ -650,7 +992,7 @@
 	left: 687px;
 }
 
-#buttonu428.ButtonSelected
+#buttonu1127.ButtonSelected,#buttonu428.ButtonSelected
 {
 	width: 229px;
 	min-height: 0px;
@@ -659,13 +1001,13 @@
 
 #u429-10
 {
-	z-index: 55;
+	z-index: 35;
 	width: 228px;
 	min-height: 262px;
 	background-color: transparent;
-	color: #3C3C3C;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
+	color: #3C3C3C;
 	font-family: open-sans, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -698,7 +1040,7 @@
 
 #u431
 {
-	z-index: 61;
+	z-index: 41;
 	vertical-align: top;
 	width: 143px;
 	height: 145px;
@@ -719,12 +1061,12 @@
 
 #u434-4
 {
-	z-index: 67;
+	z-index: 47;
 	width: 52px;
 	min-height: 49px;
 	background-color: transparent;
-	color: #53565A;
 	font-size: 36px;
+	color: #53565A;
 	line-height: 43px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -732,7 +1074,7 @@
 	margin-right: -10000px;
 }
 
-#buttonu383.ButtonSelected #u432-4,#buttonu424.ButtonSelected #u433-4,#buttonu428.ButtonSelected #u434-4
+#u1023.PamphletThumbSelected #u1030-4,#buttonu383.ButtonSelected #u432-4,#buttonu1127.ButtonSelected #u1135-4,#buttonu428.ButtonSelected #u434-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -743,23 +1085,22 @@
 
 #blocks
 {
+	margin-left: 983px;
+	top: -8px;
+	margin-bottom: -8px;
 	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	margin-top: 323px;
-	left: 961px;
 }
 
 #u435-9
 {
-	z-index: 71;
+	z-index: 51;
 	width: 960px;
 	min-height: 36px;
 	background-color: transparent;
 	font-size: 14px;
 	line-height: 21px;
 	left: -1px;
-	margin-top: 2px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -782,7 +1123,7 @@
 
 #u743
 {
-	z-index: 77;
+	z-index: 57;
 	width: 35px;
 	background-color: transparent;
 }
@@ -830,7 +1171,7 @@
 
 #u655-4
 {
-	z-index: 118;
+	z-index: 98;
 	width: 959px;
 	min-height: 45px;
 	background-color: transparent;
@@ -841,7 +1182,7 @@
 
 #u704-4
 {
-	z-index: 138;
+	z-index: 118;
 	width: 313px;
 	min-height: 31px;
 	background-color: transparent;
@@ -853,7 +1194,7 @@
 
 #u672
 {
-	z-index: 128;
+	z-index: 108;
 	width: 121px;
 	background-color: transparent;
 	position: relative;
@@ -862,7 +1203,7 @@
 
 #u707-4
 {
-	z-index: 146;
+	z-index: 126;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -873,7 +1214,7 @@
 
 #u662
 {
-	z-index: 124;
+	z-index: 104;
 	width: 178px;
 	background-color: transparent;
 	position: relative;
@@ -883,7 +1224,7 @@
 
 #u708-4
 {
-	z-index: 150;
+	z-index: 130;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -902,7 +1243,7 @@
 
 #u656
 {
-	z-index: 122;
+	z-index: 102;
 	width: 241px;
 	background-color: transparent;
 	position: relative;
@@ -911,7 +1252,7 @@
 
 #u709-4
 {
-	z-index: 154;
+	z-index: 134;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -922,7 +1263,7 @@
 
 #u667
 {
-	z-index: 126;
+	z-index: 106;
 	width: 170px;
 	background-color: transparent;
 	position: relative;
@@ -932,7 +1273,7 @@
 
 #u710-4
 {
-	z-index: 158;
+	z-index: 138;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -943,7 +1284,7 @@
 
 #u705-4
 {
-	z-index: 142;
+	z-index: 122;
 	width: 313px;
 	min-height: 30px;
 	background-color: transparent;
@@ -963,7 +1304,7 @@
 
 #u692
 {
-	z-index: 136;
+	z-index: 116;
 	width: 168px;
 	background-color: transparent;
 	position: relative;
@@ -972,7 +1313,7 @@
 
 #u711-4
 {
-	z-index: 162;
+	z-index: 142;
 	width: 625px;
 	min-height: 30px;
 	background-color: transparent;
@@ -991,7 +1332,7 @@
 
 #u687
 {
-	z-index: 134;
+	z-index: 114;
 	width: 289px;
 	background-color: transparent;
 	position: relative;
@@ -1001,7 +1342,7 @@
 
 #u712-4
 {
-	z-index: 166;
+	z-index: 146;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -1020,7 +1361,7 @@
 
 #u682
 {
-	z-index: 132;
+	z-index: 112;
 	width: 251px;
 	background-color: transparent;
 	position: relative;
@@ -1029,7 +1370,7 @@
 
 #u713-4
 {
-	z-index: 170;
+	z-index: 150;
 	width: 625px;
 	min-height: 28px;
 	background-color: transparent;
@@ -1054,7 +1395,7 @@
 
 #u677
 {
-	z-index: 130;
+	z-index: 110;
 	width: 310px;
 	background-color: transparent;
 	position: relative;
@@ -1064,7 +1405,7 @@
 
 #u714-4
 {
-	z-index: 174;
+	z-index: 154;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -1082,13 +1423,13 @@
 
 #u511-4
 {
-	z-index: 83;
+	z-index: 63;
 	width: 960px;
 	min-height: 45px;
 	background-color: transparent;
 	line-height: 36px;
 	left: -1px;
-	margin-top: 16px;
+	margin-top: 17px;
 	position: relative;
 }
 
@@ -1101,7 +1442,7 @@
 
 #buttonu724
 {
-	z-index: 182;
+	z-index: 162;
 	width: 291px;
 	border-style: none;
 	border-color: transparent;
@@ -1113,12 +1454,12 @@
 
 #u725-10
 {
-	z-index: 183;
+	z-index: 163;
 	width: 291px;
 	min-height: 281px;
 	background-color: transparent;
-	color: #3C3C3C;
 	text-align: center;
+	color: #3C3C3C;
 	font-family: open-sans, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1141,7 +1482,7 @@
 
 #u727
 {
-	z-index: 189;
+	z-index: 169;
 	width: 292px;
 	height: 170px;
 	border-width: 1px;
@@ -1152,7 +1493,7 @@
 
 #buttonu871
 {
-	z-index: 199;
+	z-index: 179;
 	width: 291px;
 	border-style: none;
 	border-color: transparent;
@@ -1165,12 +1506,12 @@
 
 #u872-10
 {
-	z-index: 200;
+	z-index: 180;
 	width: 291px;
 	min-height: 281px;
 	background-color: transparent;
-	color: #3C3C3C;
 	text-align: center;
+	color: #3C3C3C;
 	font-family: open-sans, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1193,7 +1534,7 @@
 
 #u874
 {
-	z-index: 206;
+	z-index: 186;
 	width: 292px;
 	height: 170px;
 	border-width: 1px;
@@ -1205,7 +1546,7 @@
 
 #buttonu875
 {
-	z-index: 212;
+	z-index: 192;
 	width: 291px;
 	border-style: none;
 	border-color: transparent;
@@ -1218,12 +1559,12 @@
 
 #u876-10
 {
-	z-index: 213;
+	z-index: 193;
 	width: 291px;
 	min-height: 281px;
 	background-color: transparent;
-	color: #3C3C3C;
 	text-align: center;
+	color: #3C3C3C;
 	font-family: open-sans, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1246,7 +1587,7 @@
 
 #u878
 {
-	z-index: 219;
+	z-index: 199;
 	width: 292px;
 	height: 170px;
 	border-width: 1px;
@@ -1264,7 +1605,7 @@
 
 #buttonu879
 {
-	z-index: 225;
+	z-index: 205;
 	width: 291px;
 	border-style: none;
 	border-color: transparent;
@@ -1276,12 +1617,12 @@
 
 #u880-10
 {
-	z-index: 226;
+	z-index: 206;
 	width: 291px;
 	min-height: 281px;
 	background-color: transparent;
-	color: #3C3C3C;
 	text-align: center;
+	color: #3C3C3C;
 	font-family: open-sans, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1304,7 +1645,7 @@
 
 #u882
 {
-	z-index: 232;
+	z-index: 212;
 	width: 292px;
 	height: 170px;
 	border-width: 1px;
@@ -1316,7 +1657,7 @@
 
 #buttonu883
 {
-	z-index: 238;
+	z-index: 218;
 	width: 291px;
 	border-style: none;
 	border-color: transparent;
@@ -1329,12 +1670,12 @@
 
 #u884-10
 {
-	z-index: 239;
+	z-index: 219;
 	width: 291px;
 	min-height: 281px;
 	background-color: transparent;
-	color: #3C3C3C;
 	text-align: center;
+	color: #3C3C3C;
 	font-family: open-sans, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1357,7 +1698,7 @@
 
 #u886
 {
-	z-index: 245;
+	z-index: 225;
 	width: 292px;
 	height: 170px;
 	border-width: 1px;
@@ -1369,7 +1710,7 @@
 
 #buttonu926
 {
-	z-index: 255;
+	z-index: 235;
 	width: 291px;
 	border-style: none;
 	border-color: transparent;
@@ -1382,12 +1723,12 @@
 
 #u927-10
 {
-	z-index: 256;
+	z-index: 236;
 	width: 291px;
 	min-height: 281px;
 	background-color: transparent;
-	color: #3C3C3C;
 	text-align: center;
+	color: #3C3C3C;
 	font-family: open-sans, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1410,7 +1751,7 @@
 
 #u929
 {
-	z-index: 262;
+	z-index: 242;
 	width: 292px;
 	height: 170px;
 	border-width: 1px;
@@ -1424,12 +1765,12 @@
 {
 	width: 0.01px;
 	margin-left: -1px;
-	margin-top: 25px;
+	margin-top: 24px;
 }
 
 #buttonu930
 {
-	z-index: 268;
+	z-index: 248;
 	width: 291px;
 	border-style: none;
 	border-color: transparent;
@@ -1448,12 +1789,12 @@
 
 #u931-10
 {
-	z-index: 269;
+	z-index: 249;
 	width: 291px;
 	min-height: 281px;
 	background-color: transparent;
-	color: #3C3C3C;
 	text-align: center;
+	color: #3C3C3C;
 	font-family: open-sans, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1483,7 +1824,7 @@
 	visibility: inherit;
 }
 
-#buttonu383.ButtonSelected #u384-10 p,#buttonu383.ButtonSelected #u384-10 span,#buttonu424.ButtonSelected #u425-13 p,#buttonu424.ButtonSelected #u425-13 span,#buttonu428.ButtonSelected #u429-10 p,#buttonu428.ButtonSelected #u429-10 span,#buttonu724.ButtonSelected #u725-10 p,#buttonu724.ButtonSelected #u725-10 span,#buttonu871.ButtonSelected #u872-10 p,#buttonu871.ButtonSelected #u872-10 span,#buttonu875.ButtonSelected #u876-10 p,#buttonu875.ButtonSelected #u876-10 span,#buttonu879.ButtonSelected #u880-10 p,#buttonu879.ButtonSelected #u880-10 span,#buttonu883.ButtonSelected #u884-10 p,#buttonu883.ButtonSelected #u884-10 span,#buttonu926.ButtonSelected #u927-10 p,#buttonu926.ButtonSelected #u927-10 span,#buttonu930.ButtonSelected #u931-10 p,#buttonu930.ButtonSelected #u931-10 span
+#u1023.PamphletThumbSelected #u1027-14 p,#u1023.PamphletThumbSelected #u1027-14 span,#buttonu383.ButtonSelected #u384-10 p,#buttonu383.ButtonSelected #u384-10 span,#buttonu1127.ButtonSelected #u1132-14 p,#buttonu1127.ButtonSelected #u1132-14 span,#buttonu428.ButtonSelected #u429-10 p,#buttonu428.ButtonSelected #u429-10 span,#buttonu724.ButtonSelected #u725-10 p,#buttonu724.ButtonSelected #u725-10 span,#buttonu871.ButtonSelected #u872-10 p,#buttonu871.ButtonSelected #u872-10 span,#buttonu875.ButtonSelected #u876-10 p,#buttonu875.ButtonSelected #u876-10 span,#buttonu879.ButtonSelected #u880-10 p,#buttonu879.ButtonSelected #u880-10 span,#buttonu883.ButtonSelected #u884-10 p,#buttonu883.ButtonSelected #u884-10 span,#buttonu926.ButtonSelected #u927-10 p,#buttonu926.ButtonSelected #u927-10 span,#buttonu930.ButtonSelected #u931-10 p,#buttonu930.ButtonSelected #u931-10 span
 {
 	color: #3C3C3C;
 	visibility: inherit;
@@ -1496,7 +1837,7 @@
 	font-weight: 400;
 }
 
-#u384,#u425,#u429,#u435,#u725,#u872,#u876,#u880,#u884,#u927,#u931
+#u1027,#u384,#u1132,#u429,#u435,#u725,#u872,#u876,#u880,#u884,#u927,#u931
 {
 	font-size: 1px;
 	line-height: 0px;
@@ -1504,7 +1845,7 @@
 
 #u933
 {
-	z-index: 275;
+	z-index: 255;
 	width: 292px;
 	height: 170px;
 	border-width: 1px;
@@ -1557,7 +1898,7 @@
 
 #u601-4
 {
-	z-index: 87;
+	z-index: 67;
 	width: 959px;
 	min-height: 45px;
 	background-color: transparent;
@@ -1568,7 +1909,7 @@
 
 #u717-4
 {
-	z-index: 178;
+	z-index: 158;
 	width: 959px;
 	min-height: 32px;
 	background-color: transparent;
@@ -1580,7 +1921,7 @@
 
 #u602-24
 {
-	z-index: 91;
+	z-index: 71;
 	width: 960px;
 	min-height: 45px;
 	background-color: transparent;
@@ -1695,7 +2036,7 @@
 
 #u648
 {
-	z-index: 97;
+	z-index: 77;
 	width: 397px;
 	background-color: transparent;
 }
