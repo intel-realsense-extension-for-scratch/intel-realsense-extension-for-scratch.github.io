@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001A;
-	background-color: #B27EDF;
+	color: #00000C;
+	background-color: #DB3DDB;
 }
 
 .html
@@ -31,20 +31,20 @@
 
 #u592
 {
-	z-index: 205;
+	z-index: 281;
 	height: 78px;
 	-pie-box-shadow: none;
-	box-shadow: 0px 3px 8px rgba(0,0,0,0.475);
-	background-color: #0C78C7;
-	background-color: rgba(0,113,197,0.95);
+	box-shadow: 0px 3px 8px rgba(0,0,0,0.45);
+	background-color: #197FCA;
+	background-color: rgba(0,113,197,0.9);
 	position: fixed;
 	top: 0px;
-	-pie-background: rgba(0,113,197,0.95);
+	-pie-background: rgba(0,113,197,0.9);
 }
 
 #u592-bw
 {
-	z-index: 205;
+	z-index: 281;
 }
 
 #home
@@ -55,7 +55,7 @@
 
 #u593
 {
-	z-index: 206;
+	z-index: 282;
 	width: 256px;
 	background-color: transparent;
 	position: fixed;
@@ -65,7 +65,7 @@
 
 #u595-4
 {
-	z-index: 208;
+	z-index: 284;
 	position: fixed;
 	top: 20px;
 	left: 297px;
@@ -79,19 +79,19 @@
 
 #menuu790
 {
-	z-index: 212;
-	width: 507px;
+	z-index: 288;
+	width: 545px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
 	top: 20px;
-	right: 31px;
+	right: 3px;
 }
 
 #u798
 {
-	width: 125px;
+	width: 124px;
 	min-height: 44px;
 	background-color: transparent;
 	position: relative;
@@ -100,15 +100,22 @@
 
 #u799
 {
-	width: 125px;
+	width: 124px;
 	background-color: transparent;
 	padding-bottom: 27px;
 	position: relative;
 }
 
+#u799.MuseMenuActive
+{
+	width: 124px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u802-4
 {
-	width: 125px;
+	width: 71px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
@@ -120,6 +127,7 @@
 	position: relative;
 	margin-right: -10000px;
 	top: 13px;
+	left: 26px;
 }
 
 #u799:hover #u802-4
@@ -127,7 +135,16 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 125px;
+	width: 71px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u799.MuseMenuActive #u802-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 71px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -139,25 +156,32 @@
 
 #u805
 {
-	width: 125px;
+	width: 149px;
 	min-height: 44px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 127px;
+	left: 126px;
 }
 
 #u806
 {
-	width: 125px;
+	width: 149px;
 	background-color: transparent;
 	padding-bottom: 27px;
 	position: relative;
 }
 
+#u806.MuseMenuActive
+{
+	width: 149px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u809-4
 {
-	width: 125px;
+	width: 97px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
@@ -169,14 +193,24 @@
 	position: relative;
 	margin-right: -10000px;
 	top: 13px;
+	left: 26px;
 }
 
-#u799.MuseMenuActive #u802-4,#u806:hover #u809-4
+#u806:hover #u809-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 125px;
+	width: 97px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u806.MuseMenuActive #u809-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 97px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -188,32 +222,32 @@
 
 #u812
 {
-	width: 125px;
+	width: 110px;
 	min-height: 44px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 254px;
+	left: 277px;
 }
 
 #u813
 {
-	width: 125px;
+	width: 110px;
 	background-color: transparent;
 	padding-bottom: 27px;
 	position: relative;
 }
 
-#u799.MuseMenuActive,#u806.MuseMenuActive,#u813.MuseMenuActive
+#u813.MuseMenuActive
 {
-	width: 125px;
+	width: 110px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u816-4
 {
-	width: 125px;
+	width: 58px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
@@ -225,14 +259,15 @@
 	position: relative;
 	margin-right: -10000px;
 	top: 13px;
+	left: 26px;
 }
 
-#u806.MuseMenuActive #u809-4,#u813:hover #u816-4
+#u813:hover #u816-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 125px;
+	width: 58px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -241,7 +276,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 125px;
+	width: 58px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -253,17 +288,17 @@
 
 #u819
 {
-	width: 126px;
+	width: 156px;
 	min-height: 44px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 381px;
+	left: 389px;
 }
 
 #u822
 {
-	width: 126px;
+	width: 156px;
 	background-color: transparent;
 	padding-bottom: 27px;
 	position: relative;
@@ -271,21 +306,21 @@
 
 #u822:hover
 {
-	width: 126px;
+	width: 156px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u822.MuseMenuActive
 {
-	width: 126px;
+	width: 156px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u824-4
 {
-	width: 126px;
+	width: 104px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
@@ -297,6 +332,7 @@
 	position: relative;
 	margin-right: -10000px;
 	top: 13px;
+	left: 26px;
 }
 
 #u822:hover #u824-4
@@ -304,7 +340,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 126px;
+	width: 104px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -313,13 +349,19 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 126px;
+	width: 104px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u822:hover #u824-4 p
 {
 	color: #00AEEF;
+	visibility: inherit;
+}
+
+#u799.MuseMenuActive #u802-4 p,#u806.MuseMenuActive #u809-4 p,#u813.MuseMenuActive #u816-4 p,#u822.MuseMenuActive #u824-4 p
+{
+	color: #FFFFFF;
 	visibility: inherit;
 }
 
@@ -331,9 +373,8 @@
 #u509
 {
 	z-index: 4;
-	min-height: 305.85px;
+	min-height: 275px;
 	background-color: #B1BABF;
-	padding-bottom: 0px;
 }
 
 #u509_align_to_page
@@ -343,8 +384,8 @@
 	width: 960px;
 	position: relative;
 	left: -100px;
-	padding-top: 69px;
-	padding-bottom: 35px;
+	padding-top: 59px;
+	padding-bottom: 55px;
 }
 
 #u350-4
@@ -362,90 +403,31 @@
 {
 	z-index: 9;
 	width: 960px;
-	min-height: 84px;
+	min-height: 57px;
 	background-color: transparent;
 	left: 99px;
 	margin-top: 14px;
 	position: relative;
 }
 
-#buttonu361
+#u887-4
 {
-	z-index: 34;
-	width: 231px;
-	-pie-box-shadow: 0px 4px 8px #CCCCCC;
-	box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
-	border-color: #787878;
-	background-color: #00AEEF;
-	border-radius: 5px;
-	padding-bottom: 7px;
-	left: 453px;
-	margin-top: 20px;
-	position: relative;
-}
-
-#buttonu361:hover
-{
-	background-color: #545454;
-	width: 231px;
-	min-height: 0px;
-	margin: 20px 0px 0px;
-}
-
-#buttonu361.ButtonSelected
-{
-	background-color: #00AEEF;
-	width: 231px;
-	min-height: 0px;
-	margin: 20px 0px 0px;
-}
-
-#u362-4
-{
-	z-index: 35;
-	width: 231px;
-	min-height: 23px;
+	z-index: 251;
+	width: 960px;
+	min-height: 30px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 18px;
-	line-height: 22px;
-	letter-spacing: 1px;
+	font-size: 14px;
 	text-align: center;
-	font-family: open-sans, sans-serif;
-	font-weight: 400;
+	line-height: 21px;
+	left: 99px;
+	margin-top: 15px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 8px;
-}
-
-#buttonu361:hover #u362-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 231px;
-	margin: 8px -10000px 0px 0px;
-}
-
-#buttonu361.ButtonSelected #u362-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 231px;
-	margin: 8px -10000px 0px 0px;
-}
-
-#u799.MuseMenuActive #u802-4 p,#u806.MuseMenuActive #u809-4 p,#u813.MuseMenuActive #u816-4 p,#u822.MuseMenuActive #u824-4 p,#buttonu361:hover #u362-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
 }
 
 #u509-bw
 {
 	z-index: 4;
-	min-height: 305.85px;
+	min-height: 275px;
 	margin-top: 59px;
 }
 
@@ -457,7 +439,7 @@
 	background-color: transparent;
 	line-height: 36px;
 	left: -1px;
-	margin-top: 20px;
+	margin-top: 21px;
 	position: relative;
 }
 
@@ -553,7 +535,7 @@
 
 #buttonu424
 {
-	z-index: 39;
+	z-index: 34;
 	width: 228px;
 	border-style: none;
 	border-color: transparent;
@@ -573,7 +555,7 @@
 
 #u425-13
 {
-	z-index: 40;
+	z-index: 35;
 	width: 228px;
 	min-height: 327px;
 	background-color: transparent;
@@ -609,7 +591,7 @@
 
 #u427
 {
-	z-index: 46;
+	z-index: 41;
 	vertical-align: top;
 	width: 127px;
 	height: 146px;
@@ -642,7 +624,7 @@
 
 #u433-4
 {
-	z-index: 55;
+	z-index: 50;
 	width: 52px;
 	min-height: 49px;
 	background-color: transparent;
@@ -657,7 +639,7 @@
 
 #buttonu428
 {
-	z-index: 59;
+	z-index: 54;
 	width: 229px;
 	border-style: none;
 	border-color: transparent;
@@ -677,7 +659,7 @@
 
 #u429-10
 {
-	z-index: 60;
+	z-index: 55;
 	width: 228px;
 	min-height: 262px;
 	background-color: transparent;
@@ -716,16 +698,28 @@
 
 #u431
 {
-	z-index: 66;
+	z-index: 61;
 	vertical-align: top;
 	width: 143px;
 	height: 145px;
 	background: url("../images/scratchx-u431.png") no-repeat 0px 0px;
 }
 
+#u384-6,#u429-6
+{
+	line-height: 29px;
+	font-weight: 700;
+}
+
+#u384-4,#u384-8,#u429-4,#u429-8
+{
+	line-height: 22px;
+	font-weight: 400;
+}
+
 #u434-4
 {
-	z-index: 72;
+	z-index: 67;
 	width: 52px;
 	min-height: 49px;
 	background-color: transparent;
@@ -758,7 +752,7 @@
 
 #u435-9
 {
-	z-index: 76;
+	z-index: 71;
 	width: 960px;
 	min-height: 36px;
 	background-color: transparent;
@@ -788,7 +782,7 @@
 
 #u743
 {
-	z-index: 82;
+	z-index: 77;
 	width: 35px;
 	background-color: transparent;
 }
@@ -836,7 +830,7 @@
 
 #u655-4
 {
-	z-index: 124;
+	z-index: 118;
 	width: 959px;
 	min-height: 45px;
 	background-color: transparent;
@@ -847,7 +841,7 @@
 
 #u704-4
 {
-	z-index: 144;
+	z-index: 138;
 	width: 313px;
 	min-height: 31px;
 	background-color: transparent;
@@ -859,7 +853,7 @@
 
 #u672
 {
-	z-index: 134;
+	z-index: 128;
 	width: 121px;
 	background-color: transparent;
 	position: relative;
@@ -868,7 +862,7 @@
 
 #u707-4
 {
-	z-index: 152;
+	z-index: 146;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -879,7 +873,7 @@
 
 #u662
 {
-	z-index: 130;
+	z-index: 124;
 	width: 178px;
 	background-color: transparent;
 	position: relative;
@@ -889,7 +883,7 @@
 
 #u708-4
 {
-	z-index: 156;
+	z-index: 150;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -908,7 +902,7 @@
 
 #u656
 {
-	z-index: 128;
+	z-index: 122;
 	width: 241px;
 	background-color: transparent;
 	position: relative;
@@ -917,7 +911,7 @@
 
 #u709-4
 {
-	z-index: 160;
+	z-index: 154;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -928,7 +922,7 @@
 
 #u667
 {
-	z-index: 132;
+	z-index: 126;
 	width: 170px;
 	background-color: transparent;
 	position: relative;
@@ -938,7 +932,7 @@
 
 #u710-4
 {
-	z-index: 164;
+	z-index: 158;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -949,7 +943,7 @@
 
 #u705-4
 {
-	z-index: 148;
+	z-index: 142;
 	width: 313px;
 	min-height: 30px;
 	background-color: transparent;
@@ -969,7 +963,7 @@
 
 #u692
 {
-	z-index: 142;
+	z-index: 136;
 	width: 168px;
 	background-color: transparent;
 	position: relative;
@@ -978,7 +972,7 @@
 
 #u711-4
 {
-	z-index: 168;
+	z-index: 162;
 	width: 625px;
 	min-height: 30px;
 	background-color: transparent;
@@ -997,7 +991,7 @@
 
 #u687
 {
-	z-index: 140;
+	z-index: 134;
 	width: 289px;
 	background-color: transparent;
 	position: relative;
@@ -1007,7 +1001,7 @@
 
 #u712-4
 {
-	z-index: 172;
+	z-index: 166;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -1026,7 +1020,7 @@
 
 #u682
 {
-	z-index: 138;
+	z-index: 132;
 	width: 251px;
 	background-color: transparent;
 	position: relative;
@@ -1035,7 +1029,7 @@
 
 #u713-4
 {
-	z-index: 176;
+	z-index: 170;
 	width: 625px;
 	min-height: 28px;
 	background-color: transparent;
@@ -1060,7 +1054,7 @@
 
 #u677
 {
-	z-index: 136;
+	z-index: 130;
 	width: 310px;
 	background-color: transparent;
 	position: relative;
@@ -1070,7 +1064,7 @@
 
 #u714-4
 {
-	z-index: 180;
+	z-index: 174;
 	width: 625px;
 	min-height: 26px;
 	background-color: transparent;
@@ -1083,12 +1077,12 @@
 {
 	z-index: 3;
 	min-height: 611.8250000000014px;
-	margin-top: 25px;
+	margin-top: 55px;
 }
 
 #u511-4
 {
-	z-index: 88;
+	z-index: 83;
 	width: 960px;
 	min-height: 45px;
 	background-color: transparent;
@@ -1101,37 +1095,29 @@
 #pbuttonu724
 {
 	width: 0.01px;
-	margin-left: 22px;
+	margin-left: -1px;
 	margin-top: 10px;
 }
 
 #buttonu724
 {
-	z-index: 188;
+	z-index: 182;
 	width: 291px;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
+	background-color: #E6EBEF;
 	padding-bottom: 14px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#buttonu724.ButtonSelected
-{
-	width: 291px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u725-10
 {
-	z-index: 189;
+	z-index: 183;
 	width: 291px;
 	min-height: 281px;
 	background-color: transparent;
 	color: #3C3C3C;
-	font-size: 18px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	position: relative;
@@ -1147,7 +1133,50 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#buttonu724.ButtonSelected #u725-10
+#buttonu724:hover #u725-10 p,#buttonu724:hover #u725-10 span
+{
+	color: #00AEEF;
+	visibility: inherit;
+}
+
+#u727
+{
+	z-index: 189;
+	width: 292px;
+	height: 170px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #3F5975;
+	background: transparent url("../images/sample1.png") no-repeat center center;
+}
+
+#buttonu871
+{
+	z-index: 199;
+	width: 291px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 14px;
+	position: relative;
+	margin-right: -10000px;
+	left: 336px;
+}
+
+#u872-10
+{
+	z-index: 200;
+	width: 291px;
+	min-height: 281px;
+	background-color: transparent;
+	color: #3C3C3C;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu724.ButtonSelected #u725-10,#buttonu871:hover #u872-10
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -1156,42 +1185,345 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#buttonu724:hover #u725-10 p,#buttonu724:hover #u725-10 span
+#buttonu871:hover #u872-10 p,#buttonu871:hover #u872-10 span
 {
 	color: #00AEEF;
 	visibility: inherit;
 }
 
-#buttonu383.ButtonSelected #u384-10 p,#buttonu383.ButtonSelected #u384-10 span,#buttonu424.ButtonSelected #u425-13 p,#buttonu424.ButtonSelected #u425-13 span,#buttonu428.ButtonSelected #u429-10 p,#buttonu428.ButtonSelected #u429-10 span,#buttonu724.ButtonSelected #u725-10 p,#buttonu724.ButtonSelected #u725-10 span
+#u874
+{
+	z-index: 206;
+	width: 292px;
+	height: 170px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #3F5975;
+	background: #DDDEDE url("../images/simple-hand.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu875
+{
+	z-index: 212;
+	width: 291px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 14px;
+	position: relative;
+	margin-right: -10000px;
+	left: 669px;
+}
+
+#u876-10
+{
+	z-index: 213;
+	width: 291px;
+	min-height: 281px;
+	background-color: transparent;
+	color: #3C3C3C;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu871.ButtonSelected #u872-10,#buttonu875:hover #u876-10
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 281px;
+	width: 291px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu875:hover #u876-10 p,#buttonu875:hover #u876-10 span
+{
+	color: #00AEEF;
+	visibility: inherit;
+}
+
+#u878
+{
+	z-index: 219;
+	width: 292px;
+	height: 170px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #3F5975;
+	background: #DDDEDE url("../images/full-hand.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#pbuttonu879
+{
+	width: 0.01px;
+	margin-top: 25px;
+}
+
+#buttonu879
+{
+	z-index: 225;
+	width: 291px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 14px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u880-10
+{
+	z-index: 226;
+	width: 291px;
+	min-height: 281px;
+	background-color: transparent;
+	color: #3C3C3C;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu875.ButtonSelected #u876-10,#buttonu879:hover #u880-10
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 281px;
+	width: 291px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu879:hover #u880-10 p,#buttonu879:hover #u880-10 span
+{
+	color: #00AEEF;
+	visibility: inherit;
+}
+
+#u882
+{
+	z-index: 232;
+	width: 292px;
+	height: 170px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #3F5975;
+	background: #DDDEDE url("../images/simple-face.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu883
+{
+	z-index: 238;
+	width: 291px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 14px;
+	position: relative;
+	margin-right: -10000px;
+	left: 335px;
+}
+
+#u884-10
+{
+	z-index: 239;
+	width: 291px;
+	min-height: 281px;
+	background-color: transparent;
+	color: #3C3C3C;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu879.ButtonSelected #u880-10,#buttonu883:hover #u884-10
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 281px;
+	width: 291px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu883:hover #u884-10 p,#buttonu883:hover #u884-10 span
+{
+	color: #00AEEF;
+	visibility: inherit;
+}
+
+#u886
+{
+	z-index: 245;
+	width: 292px;
+	height: 170px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #3F5975;
+	background: #DDDEDE url("../images/full-face.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu926
+{
+	z-index: 255;
+	width: 291px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 14px;
+	position: relative;
+	margin-right: -10000px;
+	left: 668px;
+}
+
+#u927-10
+{
+	z-index: 256;
+	width: 291px;
+	min-height: 281px;
+	background-color: transparent;
+	color: #3C3C3C;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu883.ButtonSelected #u884-10,#buttonu926:hover #u927-10
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 281px;
+	width: 291px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu926:hover #u927-10 p,#buttonu926:hover #u927-10 span
+{
+	color: #00AEEF;
+	visibility: inherit;
+}
+
+#u929
+{
+	z-index: 262;
+	width: 292px;
+	height: 170px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #3F5975;
+	background: #DDDEDE url("../images/pong.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#pbuttonu930
+{
+	width: 0.01px;
+	margin-left: -1px;
+	margin-top: 25px;
+}
+
+#buttonu930
+{
+	z-index: 268;
+	width: 291px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 14px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu724.ButtonSelected,#buttonu871.ButtonSelected,#buttonu875.ButtonSelected,#buttonu879.ButtonSelected,#buttonu883.ButtonSelected,#buttonu926.ButtonSelected,#buttonu930.ButtonSelected
+{
+	width: 291px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u931-10
+{
+	z-index: 269;
+	width: 291px;
+	min-height: 281px;
+	background-color: transparent;
+	color: #3C3C3C;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu926.ButtonSelected #u927-10,#buttonu930:hover #u931-10
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 281px;
+	width: 291px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu930.ButtonSelected #u931-10
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 281px;
+	width: 291px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu930:hover #u931-10 p,#buttonu930:hover #u931-10 span
+{
+	color: #00AEEF;
+	visibility: inherit;
+}
+
+#buttonu383.ButtonSelected #u384-10 p,#buttonu383.ButtonSelected #u384-10 span,#buttonu424.ButtonSelected #u425-13 p,#buttonu424.ButtonSelected #u425-13 span,#buttonu428.ButtonSelected #u429-10 p,#buttonu428.ButtonSelected #u429-10 span,#buttonu724.ButtonSelected #u725-10 p,#buttonu724.ButtonSelected #u725-10 span,#buttonu871.ButtonSelected #u872-10 p,#buttonu871.ButtonSelected #u872-10 span,#buttonu875.ButtonSelected #u876-10 p,#buttonu875.ButtonSelected #u876-10 span,#buttonu879.ButtonSelected #u880-10 p,#buttonu879.ButtonSelected #u880-10 span,#buttonu883.ButtonSelected #u884-10 p,#buttonu883.ButtonSelected #u884-10 span,#buttonu926.ButtonSelected #u927-10 p,#buttonu926.ButtonSelected #u927-10 span,#buttonu930.ButtonSelected #u931-10 p,#buttonu930.ButtonSelected #u931-10 span
 {
 	color: #3C3C3C;
 	visibility: inherit;
 }
 
-#u384,#u425,#u429,#u435,#u725
+#u725-4,#u872-4,#u876-4,#u880-4,#u884-4,#u927-4,#u931-4
+{
+	font-size: 18px;
+	line-height: 22px;
+	font-weight: 400;
+}
+
+#u384,#u425,#u429,#u435,#u725,#u872,#u876,#u880,#u884,#u927,#u931
 {
 	font-size: 1px;
 	line-height: 0px;
 }
 
-#u727
+#u933
 {
-	z-index: 195;
-	vertical-align: top;
-	width: 296px;
-	height: 174px;
-	background: url("../images/sample1-u727.png") no-repeat 0px 0px;
+	z-index: 275;
+	width: 292px;
+	height: 170px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #3F5975;
+	background: #DDDEDE url("../images/rock-paper-scissors.jpg") no-repeat center center;
+	background-size: contain;
 }
 
-#u384-6,#u429-6,#u725-6
+#u725-6,#u872-6,#u876-6,#u880-6,#u884-6,#u927-6,#u931-6
 {
+	font-size: 18px;
 	line-height: 29px;
 	font-weight: 700;
 }
 
-#u384-4,#u384-8,#u429-4,#u429-8,#u725-4,#u725-8
+#u725-8,#u872-8,#u876-8,#u880-8,#u884-8,#u927-8,#u931-8
 {
-	line-height: 22px;
+	font-size: 14px;
 	font-weight: 400;
 }
 
@@ -1200,14 +1532,14 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 261px;
-	left: 946px;
+	margin-top: 251px;
+	left: 969px;
 }
 
 #u760
 {
 	z-index: 2;
-	min-height: 550.5999999999997px;
+	min-height: 550.5999999999999px;
 	background-color: #F1F4F7;
 	padding-bottom: 0px;
 }
@@ -1225,7 +1557,7 @@
 
 #u601-4
 {
-	z-index: 92;
+	z-index: 87;
 	width: 959px;
 	min-height: 45px;
 	background-color: transparent;
@@ -1236,7 +1568,7 @@
 
 #u717-4
 {
-	z-index: 184;
+	z-index: 178;
 	width: 959px;
 	min-height: 32px;
 	background-color: transparent;
@@ -1246,9 +1578,9 @@
 	position: relative;
 }
 
-#u602-25
+#u602-24
 {
-	z-index: 96;
+	z-index: 91;
 	width: 960px;
 	min-height: 45px;
 	background-color: transparent;
@@ -1363,7 +1695,7 @@
 
 #u648
 {
-	z-index: 102;
+	z-index: 97;
 	width: 397px;
 	background-color: transparent;
 }
@@ -1371,7 +1703,7 @@
 #u760-bw
 {
 	z-index: 2;
-	min-height: 550.5999999999997px;
+	min-height: 550.5999999999999px;
 	margin-top: 31px;
 }
 

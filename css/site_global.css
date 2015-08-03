@@ -180,6 +180,16 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.Paragraph-Style-1
+{
+	color: #3C3C3C;
+	font-family: open-sans, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	text-align: center;
+	padding: 0px;
+}
+
 .list0 li:before
 {
 	position: absolute;

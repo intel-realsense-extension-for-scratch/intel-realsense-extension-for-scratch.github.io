@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/images/realsenselogo_white.png</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/images/realsenselogo_white.png</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/images/warning.png</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/images/warning.png</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/images/facevisible.png</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/images/facevisible.png</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/images/faceposition.png</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/images/faceposition.png</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/images/faceexpression.png</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/images/faceexpression.png</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/images/facerotation.png</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/images/facerotation.png</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/images/handvisible.png</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/images/handvisible.png</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/images/handposition.png</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/images/handposition.png</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/images/handgesture.png</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/images/handgesture.png</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/images/handfoldness.png</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/images/handfoldness.png</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/images/helloworld1.png</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/images/helloworld1.png</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://intel-realsense-extension-for-scratch.github.io/public/index.html</loc>
+    <loc>https://intel-realsense-extension-for-scratch.github.io/index.html</loc>
     <lastmod>2015-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

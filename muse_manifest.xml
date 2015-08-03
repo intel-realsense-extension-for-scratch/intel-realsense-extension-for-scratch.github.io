@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://intel-realsense-extension-for-scratch.github.io/public" resolutions="1x" timestamp="1438608029437">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1438610563623">
   <folder name="css">
-    <file name="site_global.css" crc="415723493"/>
-    <file name="index.css" crc="447905503" ref="index"/>
-    <file name="iefonts_index.css" crc="159436774" ref="index"/>
+    <file name="site_global.css" crc="4052259564"/>
+    <file name="index.css" crc="215694811" ref="index"/>
+    <file name="iefonts_index.css" crc="3881737784" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -11,6 +11,7 @@
     <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
   </folder>
   <folder name="images">
     <file name="realsenselogo_white.png" crc="4242555556" seo="true" ref="index"/>
@@ -27,8 +28,14 @@
     <file name="handposition.png" crc="508910255" seo="true" ref="index"/>
     <file name="handgesture.png" crc="182912586" seo="true" ref="index"/>
     <file name="handfoldness.png" crc="162181746" seo="true" ref="index"/>
-    <file name="sample1-u727.png" crc="222406790" ref="index"/>
     <file name="helloworld1.png" crc="3982778105" seo="true" ref="index"/>
+    <file name="sample1.png" crc="307377928" ref="index"/>
+    <file name="simple-hand.jpg" crc="420238839" ref="index"/>
+    <file name="full-hand.jpg" crc="222248984" ref="index"/>
+    <file name="simple-face.jpg" crc="130139652" ref="index"/>
+    <file name="full-face.jpg" crc="4256802466" ref="index"/>
+    <file name="pong.jpg" crc="283164297" ref="index"/>
+    <file name="rock-paper-scissors.jpg" crc="3958885153" ref="index"/>
   </folder>
-  <file name="index.html" crc="4161133607" seo="true" mt="1438607829099" redirect="true"/>
+  <file name="index.html" crc="264901808" seo="true" mt="1438610552215" redirect="true"/>
 </manifest>
