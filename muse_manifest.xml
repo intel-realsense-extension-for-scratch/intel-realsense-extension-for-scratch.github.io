@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1438615633465">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1438694200442">
   <folder name="css">
-    <file name="site_global.css" crc="3866205731"/>
-    <file name="index.css" crc="157445790" ref="index"/>
-    <file name="iefonts_index.css" crc="317775719" ref="index"/>
+    <file name="site_global.css" crc="474796529"/>
+    <file name="index.css" crc="42162625" ref="index"/>
+    <file name="iefonts_index.css" crc="218777436" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -14,8 +14,6 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="realsenselogo_white.png" crc="4242555556" seo="true" ref="index"/>
-    <file name="u595-4.png" crc="386570136" ref="index"/>
     <file name="rscameraicon-u386.png" crc="235157859" ref="index"/>
     <file name="scratchx-u431.png" crc="3789387973" ref="index"/>
     <file name="warning.png" crc="471954946" seo="true" ref="index"/>
@@ -36,6 +34,12 @@
     <file name="pong.jpg" crc="283164297" ref="index"/>
     <file name="rock-paper-scissors.jpg" crc="3958885153" ref="index"/>
     <file name="dlicon-u1134.png" crc="3999592492" ref="index"/>
+    <file name="home-favicon.ico" crc="369124833" ref="index"/>
+    <file name="realsenselogo.png" crc="3783931397" seo="true" ref="index"/>
+    <file name="helloworld2.png" crc="311613026" seo="true" ref="index"/>
+    <file name="helloworld3.png" crc="4167964362" seo="true" ref="index"/>
+    <file name="ux.png" crc="3769489087" seo="true" ref="index"/>
+    <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="364913986" seo="true" mt="1438615619827" redirect="true"/>
+  <file name="index.html" crc="4147488349" seo="true" mt="1438694161583" redirect="true"/>
 </manifest>

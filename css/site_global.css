@@ -85,6 +85,12 @@ body
 	body { text-rendering:auto; }
 }
 
+a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 a:link
 {
 	color: #0000FF;
@@ -147,20 +153,21 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .Heading-Style
 {
-	color: #53565A;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
-	font-size: 36px;
-	font-weight: 400;
+	font-size: 49px;
+	font-weight: 700;
 	text-align: center;
 	padding: 0px;
 }
 
 .SubHeading-Style
 {
-	color: #53565A;
+	color: #1C272D;
 	font-family: open-sans, sans-serif;
 	font-size: 30px;
-	font-weight: 400;
+	font-weight: 700;
+	line-height: 60px;
 	text-align: center;
 	padding: 0px;
 }
@@ -169,8 +176,8 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #0071C5;
 	font-family: open-sans, sans-serif;
-	font-size: 22px;
-	font-weight: 400;
+	font-size: 24px;
+	font-weight: 700;
 	padding: 0px;
 }
 
@@ -182,6 +189,33 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: 400;
 	text-align: center;
 	padding: 0px;
+}
+
+.ButtonStyle
+{
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 38px;
+	text-align: center;
+	padding: 0px;
+}
+
+.Character-Style
+{
+	font-size: 22px;
+}
+
+.Character-Style-1
+{
+	font-size: 60px;
+}
+
+.Character-Style-2
+{
+	color: #0071C5;
+	font-weight: bold;
 }
 
 .list0 li:before
