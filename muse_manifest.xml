@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1438702230430">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1438763624825">
   <folder name="css">
-    <file name="site_global.css" crc="35541230"/>
-    <file name="index.css" crc="469193110" ref="index"/>
-    <file name="iefonts_index.css" crc="4087873571" ref="index"/>
+    <file name="site_global.css" crc="168760835"/>
+    <file name="index.css" crc="303428218" ref="index"/>
+    <file name="iefonts_index.css" crc="269681249" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -41,6 +41,7 @@
     <file name="helloworld3.png" crc="4167964362" seo="true" ref="index"/>
     <file name="ux.png" crc="3769489087" seo="true" ref="index"/>
     <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index"/>
+    <file name="learnmoreiconlarge.png" crc="156659513" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="421537117" seo="true" mt="1438702216955" redirect="true"/>
+  <file name="index.html" crc="126510522" seo="true" mt="1438763551355" redirect="true"/>
 </manifest>
