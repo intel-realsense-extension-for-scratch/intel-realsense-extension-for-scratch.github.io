@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1438763624825">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1438775044974">
   <folder name="css">
     <file name="site_global.css" crc="168760835"/>
-    <file name="index.css" crc="303428218" ref="index"/>
+    <file name="index.css" crc="4030115665" ref="index"/>
     <file name="iefonts_index.css" crc="269681249" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -43,5 +43,5 @@
     <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index"/>
     <file name="learnmoreiconlarge.png" crc="156659513" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="126510522" seo="true" mt="1438763551355" redirect="true"/>
+  <file name="index.html" crc="536493867" seo="true" mt="1438774906577" redirect="true"/>
 </manifest>
