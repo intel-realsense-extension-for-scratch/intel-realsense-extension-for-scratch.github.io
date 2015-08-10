@@ -1,0 +1,47 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1438775044974">
+  <folder name="css">
+    <file name="site_global.css" crc="168760835"/>
+    <file name="index.css" crc="4030115665" ref="index"/>
+    <file name="iefonts_index.css" crc="269681249" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="369124833" ref="index"/>
+    <file name="banner.png" crc="4239694081" ref="index"/>
+    <file name="realsenselogo.png" crc="3783931397" seo="true" ref="index"/>
+    <file name="dlicon-u1134.png" crc="3999592492" ref="index"/>
+    <file name="rscameraicon-u386.png" crc="149805893" ref="index"/>
+    <file name="scratchx-u431.png" crc="4264888553" ref="index"/>
+    <file name="warning.png" crc="471954946" seo="true" ref="index"/>
+    <file name="sample1.png" crc="307377928" ref="index"/>
+    <file name="simple-face.jpg" crc="130139652" ref="index"/>
+    <file name="simple-hand.jpg" crc="420238839" ref="index"/>
+    <file name="full-face.jpg" crc="4256802466" ref="index"/>
+    <file name="full-hand.jpg" crc="222248984" ref="index"/>
+    <file name="pong.jpg" crc="283164297" ref="index"/>
+    <file name="rock-paper-scissors.jpg" crc="3958885153" ref="index"/>
+    <file name="facevisible.png" crc="3838588354" seo="true" ref="index"/>
+    <file name="faceposition.png" crc="536003386" seo="true" ref="index"/>
+    <file name="faceexpression.png" crc="3924190757" seo="true" ref="index"/>
+    <file name="facerotation.png" crc="5307740" seo="true" ref="index"/>
+    <file name="handvisible.png" crc="187437156" seo="true" ref="index"/>
+    <file name="handposition.png" crc="508910255" seo="true" ref="index"/>
+    <file name="handgesture.png" crc="182912586" seo="true" ref="index"/>
+    <file name="handfoldness.png" crc="162181746" seo="true" ref="index"/>
+    <file name="helloworld1.png" crc="3982778105" seo="true" ref="index"/>
+    <file name="helloworld2.png" crc="311613026" seo="true" ref="index"/>
+    <file name="helloworld3.png" crc="4167964362" seo="true" ref="index"/>
+    <file name="ux.png" crc="3769489087" seo="true" ref="index"/>
+    <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index"/>
+    <file name="learnmoreiconlarge.png" crc="156659513" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="536493867" seo="true" mt="1438774906577" redirect="true"/>
+</manifest>

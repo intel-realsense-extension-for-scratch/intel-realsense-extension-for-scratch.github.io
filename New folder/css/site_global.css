@@ -99,13 +99,13 @@ a:link
 
 a:visited
 {
-	color: #FFFFFF;
+	color: #800080;
 	text-decoration: underline;
 }
 
 a:hover
 {
-	color: #FDB813;
+	color: #FFDA00;
 	text-decoration: underline;
 }
 
@@ -121,30 +121,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 	font-style: normal;
 	font-weight: normal;
-}
-
-.ts-Default-Link-Style--Dark a:link
-{
-	color: #53565A;
-	text-decoration: underline;
-}
-
-.ts-Default-Link-Style--Dark a:visited
-{
-	color: #53565A;
-	text-decoration: underline;
-}
-
-.ts-Default-Link-Style--Dark a:hover
-{
-	color: #FDB813;
-	text-decoration: underline;
-}
-
-.ts-Default-Link-Style--Dark a:active
-{
-	color: #EE0000;
-	text-decoration: underline;
 }
 
 .normal_text
