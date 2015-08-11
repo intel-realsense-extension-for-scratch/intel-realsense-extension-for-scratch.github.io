@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000013;
-	background-color: #18A03A;
+	color: #000004;
+	background-color: #5030E3;
 }
 
 .html
@@ -951,7 +951,7 @@
 #pu435-8
 {
 	width: 0.01px;
-	margin-top: 59px;
+	margin-top: 30px;
 }
 
 #u435-8
@@ -965,7 +965,6 @@
 	letter-spacing: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
 }
 
 #u742
@@ -992,6 +991,7 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
+	margin-top: 29px;
 	left: 972px;
 }
 
@@ -999,7 +999,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 28px;
+	margin-top: 58px;
 }
 
 #u755

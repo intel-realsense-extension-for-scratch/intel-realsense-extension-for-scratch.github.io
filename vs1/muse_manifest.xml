@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1439217742846">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1439279720182">
   <folder name="css">
     <file name="site_global.css" crc="243552720"/>
     <file name="master_a-master.css" crc="264205889" ref="index:download-page"/>
-    <file name="index.css" crc="320380986" ref="index"/>
+    <file name="index.css" crc="72364259" ref="index"/>
     <file name="iefonts_index.css" crc="484023789" ref="index"/>
-    <file name="download-page.css" crc="3891805240" ref="download-page"/>
-    <file name="iefonts_download-page.css" crc="216607054" ref="download-page"/>
+    <file name="download-page.css" crc="479924625" ref="download-page"/>
+    <file name="iefonts_download-page.css" crc="3813977290" ref="download-page"/>
   </folder>
   <folder name="assets">
     <file name="dl_button_disabled.png" crc="3934553344" seo="true" mt="1439210298000"/>
@@ -54,6 +54,6 @@
     <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index:download-page"/>
     <file name="iconlarge.png" crc="3999021580" seo="true" ref="download-page"/>
   </folder>
-  <file name="index.html" crc="325410841" seo="true" mt="1439217736841" redirect="true"/>
-  <file name="download-page.html" crc="509695997" seo="true" mt="1439217736842" redirect="true"/>
+  <file name="index.html" crc="325410841" seo="true" mt="1439279069438" redirect="true"/>
+  <file name="download-page.html" crc="3788748524" seo="true" mt="1439279658013" redirect="true"/>
 </manifest>

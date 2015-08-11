@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1439279720182">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1439284594330">
   <folder name="css">
     <file name="site_global.css" crc="243552720"/>
     <file name="master_a-master.css" crc="264205889" ref="index:download-page"/>
     <file name="index.css" crc="72364259" ref="index"/>
     <file name="iefonts_index.css" crc="484023789" ref="index"/>
-    <file name="download-page.css" crc="479924625" ref="download-page"/>
-    <file name="iefonts_download-page.css" crc="3813977290" ref="download-page"/>
+    <file name="download-page.css" crc="3848347537" ref="download-page"/>
+    <file name="iefonts_download-page.css" crc="425343680" ref="download-page"/>
   </folder>
   <folder name="assets">
     <file name="dl_button_disabled.png" crc="3934553344" seo="true" mt="1439210298000"/>
@@ -17,9 +17,9 @@
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:download-page"/>
     <file name="museutils.js" crc="275725342" ref="index:download-page"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:download-page"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index:download-page"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:download-page"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:download-page"/>
   </folder>
   <folder name="images">
@@ -34,7 +34,7 @@
     <file name="warning.png" crc="471954946" seo="true" ref="index:download-page"/>
     <file name="sample1.png" crc="307377928" ref="index"/>
     <file name="simple-face.jpg" crc="130139652" ref="index"/>
-    <file name="rock-paper-scissors.jpg" crc="3958885153" ref="index"/>
+    <file name="rock-paper-scissors.jpg" crc="50448292" ref="index"/>
     <file name="simple-hand.jpg" crc="420238839" ref="index"/>
     <file name="full-face.jpg" crc="4256802466" ref="index"/>
     <file name="full-hand.jpg" crc="222248984" ref="index"/>
@@ -54,6 +54,6 @@
     <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index:download-page"/>
     <file name="iconlarge.png" crc="3999021580" seo="true" ref="download-page"/>
   </folder>
-  <file name="index.html" crc="325410841" seo="true" mt="1439279069438" redirect="true"/>
-  <file name="download-page.html" crc="3788748524" seo="true" mt="1439279658013" redirect="true"/>
+  <file name="index.html" crc="325410841" seo="true" mt="1439284593216" redirect="true"/>
+  <file name="download-page.html" crc="3849395987" seo="true" mt="1439282516994" redirect="true"/>
 </manifest>
