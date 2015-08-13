@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1439480599613">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1439457218474">
   <folder name="css">
     <file name="site_global.css" crc="470256095"/>
     <file name="master_a-master.css" crc="12638873" ref="index:download"/>
-    <file name="index.css" crc="4164289340" ref="index"/>
-    <file name="iefonts_index.css" crc="3983019429" ref="index"/>
+    <file name="index.css" crc="493707690" ref="index"/>
+    <file name="iefonts_index.css" crc="316843563" ref="index"/>
     <file name="download.css" crc="282557504" ref="download"/>
     <file name="iefonts_download.css" crc="425343680" ref="download"/>
   </folder>
@@ -37,7 +37,6 @@
     <file name="rock-paper-scissors.jpg" crc="50448292" ref="index"/>
     <file name="simple-hand.jpg" crc="420238839" ref="index"/>
     <file name="full-face.jpg" crc="4256802466" ref="index"/>
-    <file name="avatar.jpg" crc="3809592075" ref="index"/>
     <file name="full-hand.jpg" crc="222248984" ref="index"/>
     <file name="pong.jpg" crc="283164297" ref="index"/>
     <file name="facevisible.png" crc="3838588354" seo="true" ref="index"/>
@@ -55,6 +54,6 @@
     <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index:download"/>
     <file name="iconlarge.png" crc="3999021580" seo="true" ref="download"/>
   </folder>
-  <file name="index.html" crc="4250673031" seo="true" mt="1439480597676" redirect="true"/>
+  <file name="index.html" crc="284411337" seo="true" mt="1439457131170" redirect="true"/>
   <file name="download.html" crc="6549185" seo="true" mt="1439456046095" redirect="true"/>
 </manifest>
