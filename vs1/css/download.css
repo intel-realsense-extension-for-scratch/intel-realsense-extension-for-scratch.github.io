@@ -1,7 +1,7 @@
-.version.download_page /* version checker */
+.version.download /* version checker */
 {
-	color: #0000E5;
-	background-color: #611F91;
+	color: #000008;
+	background-color: #ED117B;
 }
 
 .html
@@ -31,14 +31,14 @@
 
 #u1843
 {
-	z-index: 92;
+	z-index: 93;
 	height: 78px;
 	top: 0px;
 }
 
 #u1843-bw
 {
-	z-index: 92;
+	z-index: 93;
 }
 
 #download
@@ -49,7 +49,7 @@
 
 #u1844
 {
-	z-index: 93;
+	z-index: 94;
 	width: 428px;
 	top: 21px;
 	left: 50%;
@@ -58,7 +58,7 @@
 
 #menuu2268
 {
-	z-index: 95;
+	z-index: 96;
 	width: 314px;
 	border-style: none;
 	border-color: transparent;
@@ -292,13 +292,22 @@
 	cursor: pointer;
 }
 
-#u1831-10
+#u2316
 {
 	z-index: 8;
+	width: 100px;
+	min-height: 25px;
+	margin-left: 430px;
+	margin-top: 9px;
+}
+
+#u1831-10
+{
+	z-index: 9;
 	width: 960px;
 	min-height: 117px;
 	background-color: transparent;
-	margin-top: 109px;
+	margin-top: 75px;
 	position: relative;
 }
 
@@ -347,7 +356,7 @@
 
 #u2185
 {
-	z-index: 18;
+	z-index: 19;
 	width: 35px;
 	background-color: transparent;
 }
@@ -366,7 +375,7 @@
 
 #u2261
 {
-	z-index: 49;
+	z-index: 50;
 	width: 300px;
 	min-height: 175px;
 	border-style: none;
@@ -384,7 +393,7 @@
 
 #u2248
 {
-	z-index: 50;
+	z-index: 51;
 	width: 307px;
 	background-color: transparent;
 	position: relative;
@@ -401,7 +410,7 @@
 
 #u2189
 {
-	z-index: 21;
+	z-index: 22;
 	min-height: 211px;
 	background-color: #EBECEE;
 	padding-bottom: 18px;
@@ -418,7 +427,7 @@
 
 #u2190-27
 {
-	z-index: 22;
+	z-index: 23;
 	width: 960px;
 	min-height: 151px;
 	background-color: transparent;
@@ -540,13 +549,13 @@
 
 #u2189-bw
 {
-	z-index: 21;
+	z-index: 22;
 	min-height: 211px;
 }
 
 #u2306-4
 {
-	z-index: 88;
+	z-index: 89;
 	width: 960px;
 	min-height: 50px;
 	background-color: transparent;
@@ -558,20 +567,20 @@
 
 #u2267-4
 {
-	z-index: 84;
-	width: 364px;
+	z-index: 85;
+	width: 960px;
 	min-height: 43px;
 	background-color: transparent;
-	line-height: 29px;
+	line-height: 43px;
 	margin-top: 41px;
 	position: relative;
 }
 
 #u2266-32
 {
-	z-index: 52;
+	z-index: 53;
 	width: 960px;
-	min-height: 679px;
+	min-height: 716px;
 	background-color: transparent;
 	margin-top: 10px;
 	position: relative;
