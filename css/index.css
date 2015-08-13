@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F3;
-	background-color: #85E00C;
+	color: #00001D;
+	background-color: #6D61AA;
 }
 
 .html
@@ -142,7 +142,7 @@
 
 #u1707-4:hover
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 31px;
@@ -237,8 +237,8 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 20px;
-	line-height: 30px;
+	font-size: 19px;
+	line-height: 29px;
 	text-align: center;
 	font-weight: 700;
 }
@@ -699,7 +699,7 @@
 
 #buttonu1127:hover #u1132-10
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 275px;
@@ -770,7 +770,7 @@
 
 #buttonu383:hover #u384-10
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 275px;
@@ -877,7 +877,7 @@
 
 #buttonu428:hover #u429-10
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 276px;
@@ -996,7 +996,6 @@
 	background-color: transparent;
 	line-height: 21px;
 	font-size: 14px;
-	letter-spacing: 0px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1066,7 +1065,7 @@
 
 #buttonu724:hover
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	width: 300px;
 	min-height: 0px;
 	margin: 0px;
@@ -1143,7 +1142,7 @@
 
 #buttonu879:hover
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	width: 300px;
 	min-height: 0px;
 	margin: 32px 0px 0px;
@@ -1207,7 +1206,7 @@
 
 #buttonu930:hover
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	width: 300px;
 	min-height: 0px;
 	margin: 31px 0px 0px;
@@ -1286,7 +1285,7 @@
 
 #buttonu871:hover
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	width: 300px;
 	min-height: 0px;
 	margin: 0px;
@@ -1350,7 +1349,7 @@
 
 #buttonu883:hover
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	width: 300px;
 	min-height: 0px;
 	margin: 32px 0px 0px;
@@ -1421,7 +1420,7 @@
 
 #buttonu875:hover
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	width: 300px;
 	min-height: 0px;
 	margin: 0px;
@@ -1493,7 +1492,7 @@
 
 #buttonu926:hover
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	width: 300px;
 	min-height: 0px;
 	margin: 32px 0px 0px;
@@ -1708,6 +1707,12 @@
 	left: 330px;
 }
 
+#pu656
+{
+	width: 0.01px;
+	margin-top: 24px;
+}
+
 #u656
 {
 	z-index: 105;
@@ -1813,17 +1818,17 @@
 {
 	z-index: 149;
 	width: 630px;
-	min-height: 26px;
+	min-height: 30px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 330px;
 }
 
-#pu656,#pu682
+#pu682
 {
 	width: 0.01px;
-	margin-top: 24px;
+	margin-top: 21px;
 }
 
 #u682
@@ -1948,7 +1953,7 @@
 
 #u1513-4:hover
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 34px;
@@ -1974,8 +1979,6 @@
 	width: 960px;
 	min-height: 381px;
 	background-color: transparent;
-	line-height: 27px;
-	font-size: 18px;
 	left: 101px;
 	margin-top: 14px;
 	position: relative;
@@ -2006,8 +2009,6 @@
 	width: 960px;
 	min-height: 246px;
 	background-color: transparent;
-	line-height: 27px;
-	font-size: 18px;
 	left: 100px;
 	margin-top: 14px;
 	position: relative;
@@ -2033,8 +2034,8 @@
 
 #u1444-18
 {
-	color: #53565A;
-	font-weight: 400;
+	color: #0071C5;
+	font-weight: 700;
 }
 
 #u1467-4
@@ -2063,8 +2064,6 @@
 	width: 960px;
 	min-height: 384px;
 	background-color: transparent;
-	line-height: 27px;
-	font-size: 18px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -2308,7 +2307,7 @@
 
 #u1511-4:hover
 {
-	background-color: #53565A;
+	background-color: #0071C5;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 34px;

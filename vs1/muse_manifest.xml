@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1439382040505">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1439454185799">
   <folder name="css">
     <file name="site_global.css" crc="243552720"/>
     <file name="master_a-master.css" crc="12638873" ref="index:download"/>
-    <file name="index.css" crc="261047198" ref="index"/>
-    <file name="iefonts_index.css" crc="484023789" ref="index"/>
+    <file name="index.css" crc="4085637132" ref="index"/>
+    <file name="iefonts_index.css" crc="316843563" ref="index"/>
     <file name="download.css" crc="149754235" ref="download"/>
     <file name="iefonts_download.css" crc="425343680" ref="download"/>
   </folder>
@@ -30,7 +30,7 @@
     <file name="realsenselogo.png" crc="4072480174" seo="true" ref="index:download"/>
     <file name="dlicon-u1134.png" crc="3999592492" ref="index"/>
     <file name="rscameraicon-u386.png" crc="149805893" ref="index"/>
-    <file name="scratchx-u431.png" crc="4264888553" ref="index"/>
+    <file name="scratch-u431.png" crc="211715440" ref="index"/>
     <file name="warning.png" crc="471954946" seo="true" ref="index:download"/>
     <file name="sample1.png" crc="307377928" ref="index"/>
     <file name="simple-face.jpg" crc="130139652" ref="index"/>
@@ -54,6 +54,6 @@
     <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index:download"/>
     <file name="iconlarge.png" crc="3999021580" seo="true" ref="download"/>
   </folder>
-  <file name="index.html" crc="3907009625" seo="true" mt="1439382024293" redirect="true"/>
+  <file name="index.html" crc="4126057815" seo="true" mt="1439453952039" redirect="true"/>
   <file name="download.html" crc="6549185" seo="true" mt="1439382024295" redirect="true"/>
 </manifest>

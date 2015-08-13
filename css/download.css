@@ -1,7 +1,7 @@
 .version.download /* version checker */
 {
-	color: #000008;
-	background-color: #ED117B;
+	color: #000010;
+	background-color: #D77C40;
 }
 
 .html
@@ -333,7 +333,7 @@
 	font-size: 14px;
 	text-align: left;
 	line-height: 21px;
-	color: #53565A;
+	color: #0071C5;
 	font-weight: 400;
 }
 

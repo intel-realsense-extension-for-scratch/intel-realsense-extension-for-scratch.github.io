@@ -105,7 +105,7 @@ a:visited
 
 a:hover
 {
-	color: #FDB813;
+	color: #FFA300;
 	text-decoration: underline;
 }
 
@@ -137,7 +137,7 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .ts-Default-Link-Style--Dark a:hover
 {
-	color: #FDB813;
+	color: #FFA300;
 	text-decoration: underline;
 }
 
