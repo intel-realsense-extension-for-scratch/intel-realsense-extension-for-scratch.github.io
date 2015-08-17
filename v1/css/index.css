@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FC;
-	background-color: #EEB138;
+	color: #0000F8;
+	background-color: #36033C;
 }
 
 .html
@@ -80,13 +80,13 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 78px;
-	margin-left: 653px;
+	margin-left: 628px;
 }
 
 #u1705
 {
 	z-index: 0;
-	width: 400px;
+	width: 432px;
 	background-color: #000000;
 	opacity: 0.62;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=62)";
@@ -100,7 +100,7 @@
 {
 	width: 0.01px;
 	position: relative;
-	left: 24px;
+	left: 19px;
 	padding-top: 5px;
 	z-index: 2;
 	padding-bottom: 5px;
@@ -109,7 +109,7 @@
 #u1706-4
 {
 	z-index: 459;
-	width: 226px;
+	width: 261px;
 	min-height: 27px;
 	background-color: transparent;
 	line-height: 19px;
@@ -137,7 +137,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	left: 245px;
+	left: 285px;
 }
 
 #u1707-4:hover
@@ -799,8 +799,8 @@
 	font-size: 18px;
 	text-align: center;
 	line-height: 22px;
-	padding-right: 10px;
-	padding-left: 10px;
+	padding-right: 8px;
+	padding-left: 8px;
 	color: #3C3C3C;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -823,8 +823,8 @@
 
 #u384-6
 {
-	padding-right: 10px;
-	padding-left: 10px;
+	padding-right: 8px;
+	padding-left: 8px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
@@ -833,8 +833,8 @@
 	font-size: 15px;
 	text-align: center;
 	line-height: 18px;
-	padding-right: 10px;
-	padding-left: 10px;
+	padding-right: 8px;
+	padding-left: 8px;
 	color: #7F7F7F;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -905,8 +905,8 @@
 {
 	font-size: 18px;
 	line-height: 22px;
-	padding-right: 10px;
-	padding-left: 10px;
+	padding-right: 8px;
+	padding-left: 8px;
 	color: #3C3C3C;
 	font-weight: 400;
 }
@@ -922,8 +922,8 @@
 
 #u1132-6,#u429-6
 {
-	padding-right: 10px;
-	padding-left: 10px;
+	padding-right: 8px;
+	padding-left: 8px;
 	color: #1C272D;
 	font-weight: 700;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
@@ -938,8 +938,8 @@
 {
 	font-size: 15px;
 	line-height: 18px;
-	padding-right: 10px;
-	padding-left: 10px;
+	padding-right: 8px;
+	padding-left: 8px;
 	color: #7F7F7F;
 	font-weight: 400;
 }
