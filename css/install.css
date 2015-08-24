@@ -1,7 +1,7 @@
 .version.install /* version checker */
 {
-	color: #00000F;
-	background-color: #4ACFB6;
+	color: #000004;
+	background-color: #A92658;
 }
 
 .html
@@ -229,7 +229,7 @@
 	position: relative;
 }
 
-#u2928
+#u2930
 {
 	z-index: 60;
 	width: 100px;
