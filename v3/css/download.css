@@ -1,7 +1,7 @@
 .version.download /* version checker */
 {
-	color: #0000FA;
-	background-color: #800214;
+	color: #0000EE;
+	background-color: #865A42;
 }
 
 .html
@@ -200,8 +200,8 @@
 	width: 207px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 38px;
 	color: #FFFFFF;
+	line-height: 38px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -229,9 +229,9 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	line-height: 2;
 	font-size: 18px;
 	text-align: center;
+	line-height: 2;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -443,8 +443,8 @@
 	width: 960px;
 	min-height: 44px;
 	background-color: transparent;
-	line-height: 32px;
 	font-size: 18px;
+	line-height: 32px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;

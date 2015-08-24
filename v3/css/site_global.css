@@ -85,6 +85,12 @@ body
 	body { text-rendering:auto; }
 }
 
+a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 a:link
 {
 	color: #FFFFFF;
@@ -115,12 +121,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 	font-style: normal;
 	font-weight: normal;
-}
-
-a,.ts-Default-Link-Style--Dark a
-{
-	color: inherit;
-	text-decoration: inherit;
 }
 
 .ts-Default-Link-Style--Dark a:link
