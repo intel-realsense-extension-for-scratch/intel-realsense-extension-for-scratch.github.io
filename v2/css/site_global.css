@@ -167,7 +167,7 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .Paragraph-Style
 {
-	color: #1C272D;
+	color: #53565A;
 	font-family: open-sans, sans-serif;
 	font-size: 18px;
 	font-weight: 400;
@@ -223,16 +223,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: 400;
 	line-height: 38px;
 	text-align: center;
-	padding: 0px;
-}
-
-.Paragraph-Style-2
-{
-	color: #7F7F7F;
-	font-family: open-sans, sans-serif;
-	font-size: 18px;
-	font-weight: 400;
-	line-height: 27px;
 	padding: 0px;
 }
 
