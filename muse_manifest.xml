@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1440402508438">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1440409970219">
   <folder name="css">
     <file name="site_global.css" crc="178443112"/>
     <file name="master_a-master.css" crc="12638873" ref="download:install:index"/>
-    <file name="download.css" crc="3890573522" ref="download"/>
-    <file name="iefonts_download.css" crc="3919559387" ref="download"/>
-    <file name="install.css" crc="3875715490" ref="install"/>
+    <file name="download.css" crc="4279144623" ref="download"/>
+    <file name="iefonts_download.css" crc="358618639" ref="download"/>
+    <file name="install.css" crc="256561078" ref="install"/>
     <file name="iefonts_install.css" crc="4017449734" ref="install"/>
     <file name="index.css" crc="440953912" ref="index"/>
     <file name="iefonts_index.css" crc="325164852" ref="index"/>
@@ -61,8 +61,9 @@
     <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index:download:install"/>
     <file name="iconlarge.png" crc="3864520729" seo="true" ref="download"/>
     <file name="homeicon-01.png" crc="3767142952" seo="true" ref="install"/>
+    <file name="avatarvsign.jpg" crc="275693607" seo="true" ref="install"/>
   </folder>
   <file name="index.html" crc="532834726" seo="true" mt="1439902940340" redirect="true"/>
-  <file name="download.html" crc="3990438374" seo="true" mt="1440402478256" redirect="true"/>
-  <file name="install.html" crc="436382918" seo="true" mt="1440401950880" redirect="true"/>
+  <file name="download.html" crc="4014317386" seo="true" mt="1440405231355" redirect="true"/>
+  <file name="install.html" crc="463281843" seo="true" mt="1440405720656" redirect="true"/>
 </manifest>

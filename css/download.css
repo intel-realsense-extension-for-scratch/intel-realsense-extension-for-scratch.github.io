@@ -1,7 +1,7 @@
 .version.download /* version checker */
 {
-	color: #0000E7;
-	background-color: #E570D2;
+	color: #0000FF;
+	background-color: #0E90AF;
 }
 
 .html
@@ -282,14 +282,14 @@
 	position: relative;
 }
 
-#pu2860
+#pu2918
 {
 	width: 0.01px;
 	margin-left: -1px;
 	margin-top: 10px;
 }
 
-#u2860
+#u2918
 {
 	z-index: 71;
 	width: 300px;

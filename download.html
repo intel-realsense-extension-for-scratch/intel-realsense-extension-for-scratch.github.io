@@ -12,9 +12,9 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?178443112"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?12638873"/>
-  <link rel="stylesheet" type="text/css" href="css/download.css?3890573522" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/download.css?4279144623" id="pagesheet"/>
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_download.css?3919559387"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_download.css?358618639"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -104,8 +104,8 @@ var __adobewebfontsappname__ = "muse";
         <div class="SubSubHeading clearfix colelem" id="u2791-4"><!-- content -->
          <h4>Downloading installer</h4>
         </div>
-        <div class="clearfix colelem" id="pu2860"><!-- group -->
-         <div class="grpelem" id="u2860"><!-- custom html -->
+        <div class="clearfix colelem" id="pu2918"><!-- group -->
+         <div class="grpelem" id="u2918"><!-- custom html -->
           
 			<input type="checkbox" name="checkbox1" id="checkbox1" class="css-checkbox">
 			<label for="checkbox1" class="css-label">&nbsp;&nbsp;I am at least 18 years old</label>
@@ -116,7 +116,10 @@ var __adobewebfontsappname__ = "muse";
 				margin-left: auto;      
 				margin-right: auto;
 			">
-			<a id="buttonEnabled" href="http://registrationcenter-download.intel.com/akdlm/irc_nas/7787/intel_rs_sdk_runtime_webapp_6.0.21.6598.exe" class="hide"><img id="imageEnabled" src="assets/dl_button_normal.png"></a>
+			<form action="install.html" id="downloadForm" method="GET"> 
+				<a id="buttonEnabled" href="javascript:{}" onclick="localStorage.downloadLink = 'http://registrationcenter-download.intel.com/akdlm/irc_nas/7787/intel_rs_sdk_runtime_webapp_6.0.21.6598.exe'; document.getElementById('downloadForm').submit();" class="hide"><img id="imageEnabled" src="assets/dl_button_normal.png"></a>
+			</form>
+			
 		
 </div>
          <div class="Paragraph-Style clearfix grpelem" id="u2726-4"><!-- content -->
@@ -241,12 +244,6 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 						.mouseout(function() {
 							$(this).attr("src", "assets/dl_button_normal.png");
 						});
-						
-					$( "#buttonEnabled" ).click(function() {
-						setTimeout(function(){
-							window.location.href = "install.html";
-						}, 100);
-					});
 				});
 			</script>
 		

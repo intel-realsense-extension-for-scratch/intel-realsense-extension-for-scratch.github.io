@@ -1,7 +1,7 @@
 .version.install /* version checker */
 {
-	color: #0000E7;
-	background-color: #02B9A2;
+	color: #00000F;
+	background-color: #4ACFB6;
 }
 
 .html
@@ -37,19 +37,19 @@
 
 #u1843
 {
-	z-index: 54;
+	z-index: 61;
 	height: 78px;
 	top: 0px;
 }
 
 #u1843-bw
 {
-	z-index: 54;
+	z-index: 61;
 }
 
 #u1844
 {
-	z-index: 55;
+	z-index: 62;
 	width: 428px;
 	top: 21px;
 	left: 50%;
@@ -58,7 +58,7 @@
 
 #menuu2806
 {
-	z-index: 57;
+	z-index: 64;
 	width: 52px;
 	border-style: none;
 	border-color: transparent;
@@ -167,7 +167,7 @@
 
 #u2420-4
 {
-	z-index: 27;
+	z-index: 29;
 	width: 960px;
 	min-height: 64px;
 	background-color: transparent;
@@ -177,7 +177,7 @@
 
 #u2832-7
 {
-	z-index: 47;
+	z-index: 49;
 	width: 543px;
 	min-height: 34px;
 	background-color: transparent;
@@ -192,7 +192,7 @@
 
 #u2575-4
 {
-	z-index: 42;
+	z-index: 44;
 	width: 248px;
 	min-height: 32px;
 	background-color: transparent;
@@ -203,7 +203,7 @@
 
 #u2419-18
 {
-	z-index: 9;
+	z-index: 11;
 	width: 960px;
 	min-height: 158px;
 	background-color: transparent;
@@ -218,9 +218,31 @@
 	font-weight: 700;
 }
 
+#u2862-4
+{
+	z-index: 56;
+	width: 960px;
+	min-height: 30px;
+	background-color: transparent;
+	line-height: 22px;
+	margin-top: 33px;
+	position: relative;
+}
+
+#u2928
+{
+	z-index: 60;
+	width: 100px;
+	min-height: 25px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
 #u2424-8
 {
-	z-index: 31;
+	z-index: 33;
 	width: 220px;
 	min-height: 107px;
 	background-color: #00AEEF;
@@ -232,7 +254,8 @@
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 370px;
-	margin-top: 34px;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
 }
 
@@ -243,7 +266,7 @@
 	padding-bottom: 0px;
 	min-height: 107px;
 	width: 220px;
-	margin: 34px 0px 0px 370px;
+	margin: 0px 0px -4px 370px;
 }
 
 #u2424
@@ -254,7 +277,7 @@
 
 #u2426
 {
-	z-index: 37;
+	z-index: 39;
 	width: 139px;
 	background-color: transparent;
 }
@@ -272,11 +295,22 @@
 	margin-bottom: -1px;
 }
 
+#u2887
+{
+	z-index: 9;
+	width: 318px;
+	background-color: transparent;
+	margin-left: 642px;
+	top: -129px;
+	margin-bottom: -129px;
+	position: relative;
+}
+
 #pu1850-4
 {
 	width: 0.01px;
 	margin-left: 760px;
-	margin-top: 176px;
+	margin-top: 5px;
 }
 
 #u1850-4
