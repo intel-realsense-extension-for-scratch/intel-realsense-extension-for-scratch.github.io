@@ -1,17 +1,17 @@
-#u1843
-{
-	background-color: #197FCA;
-	background-color: rgba(0,113,197,0.9);
-	position: fixed;
-	-pie-background: rgba(0,113,197,0.9);
-}
-
 #u2316
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
+}
+
+#u1843
+{
+	background-color: #197FCA;
+	background-color: rgba(0,113,197,0.9);
+	position: fixed;
+	-pie-background: rgba(0,113,197,0.9);
 }
 
 #u1844
