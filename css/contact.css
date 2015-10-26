@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000003;
-	background-color: #E2D171;
+	color: #00001C;
+	background-color: #3C9862;
 }
 
 #page
@@ -188,7 +188,7 @@
 {
 	z-index: 13;
 	width: 0.01px;
-	height: 266px;
+	height: 276px;
 	margin-top: 43px;
 	position: relative;
 }
@@ -440,8 +440,8 @@
 #u3101-4
 {
 	z-index: 32;
-	width: 200px;
-	min-height: 21px;
+	width: 305px;
+	min-height: 26px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -453,7 +453,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 240px;
+	margin-top: 246px;
 	left: 140px;
 }
 
@@ -469,8 +469,8 @@
 #u3111-4
 {
 	z-index: 36;
-	width: 200px;
-	min-height: 21px;
+	width: 305px;
+	min-height: 26px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -483,7 +483,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 240px;
+	margin-top: 246px;
 	left: 140px;
 }
 
@@ -499,8 +499,8 @@
 #u3102-4
 {
 	z-index: 40;
-	width: 200px;
-	min-height: 21px;
+	width: 305px;
+	min-height: 26px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -513,7 +513,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 240px;
+	margin-top: 246px;
 	left: 140px;
 }
 
@@ -522,14 +522,14 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
-	min-height: 25px;
+	min-height: 30px;
 }
 
 #widgetu3095.frm-subm-ok-st #u3102-4 p
 {
 	color: #999999;
+	line-height: 1;
 	font-size: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
 
@@ -541,7 +541,7 @@
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 235px;
+	margin-top: 246px;
 	background: url("../images/u3096-17.png") no-repeat 0px 0px;
 }
 
@@ -734,17 +734,17 @@
 	z-index: 84;
 	width: 318px;
 	background-color: transparent;
-	position: fixed;
-	bottom: 69px;
-	left: 50%;
-	margin-left: 162px;
+	margin-left: 642px;
+	top: -20px;
+	margin-bottom: -20px;
+	position: relative;
 }
 
 #pu1850-4
 {
 	width: 0.01px;
 	margin-left: 760px;
-	margin-top: 246px;
+	margin-top: 6px;
 }
 
 #u1850-4

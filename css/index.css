@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000017;
-	background-color: #55F38E;
+	color: #0000F5;
+	background-color: #E13B4F;
 }
 
 .html
@@ -270,14 +270,81 @@
 #menuu1273
 {
 	z-index: 565;
-	width: 451px;
+	width: 427px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
 	top: 18px;
 	left: 50%;
-	margin-left: 29px;
+	margin-left: 53px;
+}
+
+#u3214
+{
+	width: 64px;
+	min-height: 42px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3217
+{
+	width: 64px;
+	background-color: transparent;
+	padding-bottom: 25px;
+	position: relative;
+}
+
+#u3217.MuseMenuActive
+{
+	background-color: #00AEEF;
+	border-radius: 10px;
+	width: 64px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3218-4
+{
+	width: 45px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	top: 12px;
+	left: 9px;
+}
+
+#u3217:hover #u3218-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 45px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3217.MuseMenuActive #u3218-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 45px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3217:hover #u3218-4 p
+{
+	color: #00AEEF;
+	visibility: inherit;
 }
 
 #u1295
@@ -287,6 +354,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	left: 66px;
 }
 
 #u1296
@@ -354,7 +422,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 79px;
+	left: 145px;
 }
 
 #u1284
@@ -422,7 +490,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 198px;
+	left: 264px;
 }
 
 #u1275
@@ -499,7 +567,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 323px;
+	left: 389px;
 }
 
 #u1486
@@ -566,78 +634,6 @@
 #u1486:hover #u1488-4 p
 {
 	color: #00AEEF;
-	visibility: inherit;
-}
-
-#u3061
-{
-	width: 88px;
-	min-height: 42px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 363px;
-}
-
-#u3062
-{
-	width: 88px;
-	background-color: transparent;
-	padding-bottom: 25px;
-	position: relative;
-}
-
-#u3062:hover
-{
-	width: 88px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u3063-4
-{
-	width: 69px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	color: #F3D54E;
-	text-align: center;
-	font-family: open-sans, sans-serif;
-	font-weight: 700;
-	position: relative;
-	margin-right: -10000px;
-	top: 12px;
-	left: 9px;
-}
-
-#u3062:hover #u3063-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 69px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u3062.MuseMenuActive #u3063-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 69px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u3062:hover #u3063-4 p
-{
-	color: #00AEEF;
-	visibility: inherit;
-}
-
-#u3062.MuseMenuActive #u3063-4 p
-{
-	color: #F3D54E;
 	visibility: inherit;
 }
 
@@ -712,7 +708,7 @@
 	margin: 1px -10000px 0px 0px;
 }
 
-#u1296.MuseMenuActive #u1299-4 p,#u1284.MuseMenuActive #u1287-4 p,#u1275.MuseMenuActive #u1276-4 p,#u1486.MuseMenuActive #u1488-4 p,#buttonu1127:hover #u1132-10 p,#buttonu1127:hover #u1132-10 span
+#u3217.MuseMenuActive #u3218-4 p,#u1296.MuseMenuActive #u1299-4 p,#u1284.MuseMenuActive #u1287-4 p,#u1275.MuseMenuActive #u1276-4 p,#u1486.MuseMenuActive #u1488-4 p,#buttonu1127:hover #u1132-10 p,#buttonu1127:hover #u1132-10 span
 {
 	color: #FFFFFF;
 	visibility: inherit;

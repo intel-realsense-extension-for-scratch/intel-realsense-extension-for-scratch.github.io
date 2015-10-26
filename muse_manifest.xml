@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1445857517055">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1445868823889">
   <folder name="css">
     <file name="site_global.css" crc="502938311"/>
     <file name="master_a-master.css" crc="313246308" ref="install:index:download:contact"/>
-    <file name="install.css" crc="3579421" ref="install"/>
+    <file name="install.css" crc="4077031213" ref="install"/>
     <file name="iefonts_install.css" crc="4017449734" ref="install"/>
-    <file name="index.css" crc="391508878" ref="index"/>
-    <file name="iefonts_index.css" crc="3936959033" ref="index"/>
+    <file name="index.css" crc="4125178703" ref="index"/>
+    <file name="iefonts_index.css" crc="416957106" ref="index"/>
     <file name="download.css" crc="413635418" ref="download"/>
     <file name="iefonts_download.css" crc="358618639" ref="download"/>
-    <file name="contact.css" crc="65196401" ref="contact"/>
+    <file name="contact.css" crc="473733218" ref="contact"/>
     <file name="iefonts_contact.css" crc="83339415" ref="contact"/>
   </folder>
   <folder name="assets">
@@ -72,16 +72,16 @@
     <file name="ux.png" crc="3769489087" seo="true" ref="index"/>
     <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index:download:install:contact"/>
     <file name="iconlarge.png" crc="3864520729" seo="true" ref="download"/>
-    <file name="avatarvsign.jpg" crc="275693607" seo="true" ref="install"/>
     <file name="homeicon-01.png" crc="3767142952" seo="true" ref="install"/>
-    <file name="u3096-17.png" crc="520284619" ref="contact"/>
-    <file name="u3096-17-r.png" crc="204990891" ref="contact"/>
-    <file name="u3096-17-m.png" crc="3831814403" ref="contact"/>
-    <file name="u3096-17-fs.png" crc="381324090" ref="contact"/>
+    <file name="avatarvsign.jpg" crc="275693607" seo="true" ref="install"/>
+    <file name="u3096-17.png" crc="4079825967" ref="contact"/>
+    <file name="u3096-17-r.png" crc="4262246420" ref="contact"/>
+    <file name="u3096-17-m.png" crc="253813848" ref="contact"/>
+    <file name="u3096-17-fs.png" crc="3984595757" ref="contact"/>
     <file name="avataroo.jpg" crc="3860105376" seo="true" ref="contact"/>
   </folder>
-  <file name="index.html" crc="334925952" seo="true" mt="1445857194849" redirect="true"/>
-  <file name="download.html" crc="4014317386" seo="true" mt="1440405231355" redirect="true"/>
-  <file name="install.html" crc="3938750926" seo="true" mt="1445857140864" redirect="true"/>
-  <file name="contact.html" crc="4219270130" seo="true" mt="1445857088958" redirect="true"/>
+  <file name="index.html" crc="514828558" seo="true" mt="1445868801902" redirect="true"/>
+  <file name="download.html" crc="215790317" seo="true" mt="1445860811442" redirect="true"/>
+  <file name="install.html" crc="4022117929" seo="true" mt="1445868668988" redirect="true"/>
+  <file name="contact.html" crc="485580764" seo="true" mt="1445868663332" redirect="true"/>
 </manifest>
