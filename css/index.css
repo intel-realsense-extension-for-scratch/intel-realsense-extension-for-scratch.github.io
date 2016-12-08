@@ -1833,7 +1833,7 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 1308px;
+	/*margin-top: 1308px;*/
 	left: 1071px;
 }
 
@@ -2188,7 +2188,7 @@
 #u760
 {
 	z-index: 9;
-	min-height: 1912.9500000000007px;
+	/*min-height: 1912px;*/
 	background-color: #EBECEE;
 	padding-bottom: 0px;
 }
@@ -2200,8 +2200,8 @@
 	width: 960px;
 	position: relative;
 	left: -100px;
-	padding-top: 177px;
-	padding-bottom: 49px;
+	padding-top: 120px;
+	/*padding-bottom: 49px;*/
 }
 
 #pu1512-4
@@ -2407,18 +2407,18 @@
 {
 	z-index: 365;
 	min-height: 61px;
-	margin-top: 1917px;
+	margin-top: 1940px;
 }
 
 #u3022-42
 {
 	z-index: 458;
 	width: 960px;
-	min-height: 384px;
+	min-height: 270px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1549px;
+	margin-top: 1510px;
 	left: 100px;
 }
 
