@@ -1,15 +1,15 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1445868823889">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://intel-realsense-extension-for-scratch.github.io" resolutions="1x" timestamp="1502179715961">
   <folder name="css">
-    <file name="site_global.css" crc="502938311"/>
-    <file name="master_a-master.css" crc="313246308" ref="install:index:download:contact"/>
-    <file name="install.css" crc="4077031213" ref="install"/>
-    <file name="iefonts_install.css" crc="4017449734" ref="install"/>
-    <file name="index.css" crc="4125178703" ref="index"/>
-    <file name="iefonts_index.css" crc="416957106" ref="index"/>
-    <file name="download.css" crc="413635418" ref="download"/>
-    <file name="iefonts_download.css" crc="358618639" ref="download"/>
-    <file name="contact.css" crc="473733218" ref="contact"/>
-    <file name="iefonts_contact.css" crc="83339415" ref="contact"/>
+    <file name="site_global.css" crc="323123186"/>
+    <file name="master_a-master.css" crc="4114676857" ref="contact:download:install:index"/>
+    <file name="contact.css" crc="468984967" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3943638771" ref="contact"/>
+    <file name="download.css" crc="483045603" ref="download"/>
+    <file name="iefonts_download.css" crc="303719805" ref="download"/>
+    <file name="install.css" crc="4226478010" ref="install"/>
+    <file name="iefonts_install.css" crc="448120841" ref="install"/>
+    <file name="index.css" crc="3991064471" ref="index"/>
+    <file name="iefonts_index.css" crc="184699716" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="dl_button_hover.png" crc="4254003734" seo="true" mt="1439802562000"/>
@@ -18,70 +18,147 @@
     <file name="dl_button_normal.png" crc="362892945" seo="true" mt="1439802548000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:download:install:contact"/>
-    <file name="museutils.js" crc="275725342" ref="index:download:install:contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index:download:install:contact"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:download:install:contact"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:download:install:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:download:install:contact"/>
+    <file name="museutils.js" crc="4216313831" ref="index:download:install:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:download:install:contact"/>
+    <file name="museconfig.js" crc="474374037" ref="index:download:install:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:download:install:contact"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:download:install:contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:download:install:contact"/>
-    <file name="webpro.js" crc="3883484123" ref="download:contact"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="download"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="download"/>
-    <file name="touchswipe.js" crc="4218319045" ref="download"/>
-    <file name="form_check.php" crc="3932029206" ref="contact"/>
-    <file name="form_throttle.php" crc="314685628" ref="contact"/>
-    <file name="form_process.php" crc="401030677" ref="contact"/>
-    <file name="form-u3095.php" crc="4272403587" ref="contact"/>
+    <file name="require.js" crc="3951022091" ref="index:download:install:contact"/>
+    <file name="webpro.js" crc="4143865194" ref="download:contact"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="download"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="download"/>
+    <file name="touchswipe.js" crc="4200445185" ref="download"/>
+    <file name="form_check.php" crc="154010282" ref="contact"/>
+    <file name="form_throttle.php" crc="266437015" ref="contact"/>
+    <file name="form_process.php" crc="512629711" ref="contact"/>
+    <file name="form-u3095.php" crc="480874892" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="369124833" ref="index"/>
-    <file name="banner.png" crc="4239694081" ref="index"/>
-    <file name="iconwhite.png" crc="301059830" seo="true" ref="index"/>
-    <file name="learnmoreiconlarge.png" crc="156659513" seo="true" ref="index"/>
-    <file name="realsenselogo.png" crc="4072480174" seo="true" ref="index:download:install:contact"/>
+    <file name="banner.png" crc="198948669" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconwhite.png" crc="301059830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="learnmoreiconlarge.png" crc="156659513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="realsenselogo.png" crc="4072480174" seo="true" ref="index:download:install:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="install" alt=""/>
+      <caption webpage="download" alt=""/>
+    </file>
     <file name="dlicon-u1134.png" crc="3999592492" ref="index"/>
     <file name="rscameraicon-u386.png" crc="149805893" ref="index"/>
     <file name="scratch-u431.png" crc="211715440" ref="index"/>
-    <file name="warning.png" crc="471954946" seo="true" ref="index"/>
-    <file name="sample1.png" crc="307377928" ref="index"/>
-    <file name="full-hand.jpg" crc="222248984" ref="index"/>
-    <file name="pong.jpg" crc="283164297" ref="index"/>
-    <file name="color-game.jpg" crc="60972709" ref="index"/>
-    <file name="avatar.jpg" crc="3809592075" ref="index"/>
-    <file name="simple-face.jpg" crc="130139652" ref="index"/>
-    <file name="rock-paper-scissors.jpg" crc="50448292" ref="index"/>
-    <file name="simple-hand.jpg" crc="420238839" ref="index"/>
-    <file name="full-face.jpg" crc="4256802466" ref="index"/>
-    <file name="snake-bug.jpg" crc="4064378095" ref="index"/>
-    <file name="facevisible.png" crc="3838588354" seo="true" ref="index"/>
-    <file name="faceposition.png" crc="536003386" seo="true" ref="index"/>
-    <file name="faceexpression.png" crc="3924190757" seo="true" ref="index"/>
-    <file name="facerotation.png" crc="5307740" seo="true" ref="index"/>
-    <file name="handvisible.png" crc="187437156" seo="true" ref="index"/>
-    <file name="handposition.png" crc="508910255" seo="true" ref="index"/>
-    <file name="handgesture.png" crc="182912586" seo="true" ref="index"/>
-    <file name="handfoldness.png" crc="162181746" seo="true" ref="index"/>
-    <file name="usersaid.png" crc="164563722" seo="true" ref="index"/>
-    <file name="usersaidunknown.png" crc="4168040816" seo="true" ref="index"/>
-    <file name="lastrecognizedword.png" crc="162160623" seo="true" ref="index"/>
-    <file name="helloworld1.png" crc="3982778105" seo="true" ref="index"/>
-    <file name="helloworld2.png" crc="311613026" seo="true" ref="index"/>
-    <file name="helloworld3.png" crc="4167964362" seo="true" ref="index"/>
-    <file name="helloworld4.png" crc="323718661" seo="true" ref="index"/>
-    <file name="ux.png" crc="3769489087" seo="true" ref="index"/>
-    <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index:download:install:contact"/>
-    <file name="iconlarge.png" crc="3864520729" seo="true" ref="download"/>
-    <file name="homeicon-01.png" crc="3767142952" seo="true" ref="install"/>
-    <file name="avatarvsign.jpg" crc="275693607" seo="true" ref="install"/>
-    <file name="u3096-17.png" crc="4079825967" ref="contact"/>
-    <file name="u3096-17-r.png" crc="4262246420" ref="contact"/>
-    <file name="u3096-17-m.png" crc="253813848" ref="contact"/>
-    <file name="u3096-17-fs.png" crc="3984595757" ref="contact"/>
-    <file name="avataroo.jpg" crc="3860105376" seo="true" ref="contact"/>
+    <file name="warning.png" crc="471954946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sample1.png" crc="307377928" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="full-hand.jpg" crc="222248984" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pong.jpg" crc="283164297" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="color-game.jpg" crc="60972709" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="avatar.jpg" crc="3809592075" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="simple-face.jpg" crc="130139652" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rock-paper-scissors.jpg" crc="50448292" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="simple-hand.jpg" crc="420238839" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="full-face.jpg" crc="4256802466" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snake-bug.jpg" crc="4064378095" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facevisible.png" crc="3838588354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faceposition.png" crc="536003386" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faceexpression.png" crc="3924190757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facerotation.png" crc="5307740" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handvisible.png" crc="187437156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handposition.png" crc="508910255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handgesture.png" crc="182912586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handfoldness.png" crc="162181746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="usersaid.png" crc="164563722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="usersaidunknown.png" crc="4168040816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lastrecognizedword.png" crc="162160623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="helloworld1.png" crc="3982778105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="helloworld2.png" crc="311613026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="helloworld3.png" crc="4167964362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="helloworld4.png" crc="323718661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ux.png" crc="3769489087" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intellogofooter.png" crc="3773171076" seo="true" ref="index:download:install:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="install" alt=""/>
+      <caption webpage="download" alt=""/>
+    </file>
+    <file name="iconlarge.png" crc="3864520729" seo="true" ref="download">
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+    </file>
+    <file name="homeicon-01.png" crc="3767142952" seo="true" ref="install">
+      <caption webpage="install" alt=""/>
+    </file>
+    <file name="avatarvsign.jpg" crc="275693607" seo="true" ref="install">
+      <caption webpage="install" alt=""/>
+    </file>
+    <file name="avataroo.jpg" crc="3860105376" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="514828558" seo="true" mt="1445868801902" redirect="true"/>
-  <file name="download.html" crc="215790317" seo="true" mt="1445860811442" redirect="true"/>
-  <file name="install.html" crc="4022117929" seo="true" mt="1445868668988" redirect="true"/>
-  <file name="contact.html" crc="485580764" seo="true" mt="1445868663332" redirect="true"/>
+  <file name="index.html" crc="3875663974" seo="true" mt="1502179709741" redirect="true"/>
+  <file name="download.html" crc="3792758292" seo="true" mt="1445860811442" redirect="true"/>
+  <file name="install.html" crc="506258936" seo="true" mt="1445868668988" redirect="true"/>
+  <file name="contact.html" crc="3887294261" seo="true" mt="1445868663332" redirect="true"/>
 </manifest>
